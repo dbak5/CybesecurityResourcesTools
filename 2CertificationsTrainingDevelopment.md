@@ -12,6 +12,16 @@ Professor Messor \
 
 ### Cons
 
+## Security Blue Team
+
+https://www.securityblue.team/
+
+## GIAC
+
+https://www.giac.org/
+
+## EC Council
+
 ## SANS
 
 ### Pros
@@ -40,8 +50,6 @@ https://www.isaca.org/
 ### Pros
 
 ### Cons
-
-## Splunk
 
 # Education and Training Programs
 
@@ -79,6 +87,14 @@ https://www.southmetrotafe.wa.edu.au/courses/certificate-iv-cyber-security
 
 This may also get you access to LinkedIn Learning resources \
 You can also get discounts to TryHackMe \
+
+## LinkedIn Learning
+
+## Other
+
+Splunk \
+RedHat \
+CISCO \
 
 # Australian Conferences
 
@@ -118,7 +134,7 @@ https://www.youtube.com/user/BlackHatOfficialYT
 ## Brian Krebs
 
 https://www.linkedin.com/in/bkrebs/ \
-https://krebsonsecurity.com/ \
+https://krebsonsecurity.com/
 
 ## Graham Cluley
 
@@ -133,7 +149,7 @@ https://thehackernews.com/
 
 ## Darknet Diaries
 
-https://darknetdiaries.com/ \
+https://darknetdiaries.com/
 
 ## Others
 
@@ -147,8 +163,7 @@ https://www.infosecurity-magazine.com/ \
 https://www.politico.com/newsletters/weekly-cybersecurity \
 https://www.zdnet.com/topic/security/ \
 https://cyberdistortion.libsyn.com/ \
-
 https://malicious.life/ \
 https://www.risky.biz/ \
 https://thecyberwire.com/podcasts/daily-podcast \
-https://inteltechniques.com/podcast.html \
+https://inteltechniques.com/podcast.html
