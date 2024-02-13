@@ -36,11 +36,133 @@ https://predator-os.ir/
 
 # Practice!
 
+Setting up virtual machines \
 https://overthewire.org/wargames/bandit/ \
+
+## Australian Government Challenges
+
 https://www.asd.gov.au/careers/puzzles-and-challenges \
 https://www.cyber.gov.au/about-us/news/asdacsc-cyber-security-challenge \
 
+## TryHackMe
+
+Advent of Cyber every year \
+Lots of learning pathways \
+
+## letsdefend.io
+
+## HackTheBox
+
+## Downunderctf
+
+## SANS Holiday Hack Challenge
+
+# Networking Groups
+
+## SecTalks
+
+## WA
+
+## NT
+
+## ACT
+
+## NSW
+
+## Tas
+
+## SA
+
+## QLD
+
+## Vic
+
+## Bsides
+
+## WA
+
+## NT
+
+## ACT
+
+## NSW
+
+## Tas
+
+## SA
+
+## QLD
+
+## Vic
+
+## Second Thursday of the Month Club (STOTM)
+
+## WA
+
+## NT
+
+## ACT
+
+## NSW
+
+## Tas
+
+## SA
+
+## QLD
+
+## Vic
+
+## Women in Technology WA
+
+## Australian Women in Security Network
+
+# Australian Conferences
+
+## WA
+
+cyberwest
+
+## NT
+
+## ACT
+
+## NSW
+
+## Tas
+
+## SA
+
+## QLD
+
+## Vic
+
 # Resources
+
+## Open Worldwide Application Security Project (OWASP)
+
+Produces freely available articles, methodologies, documentation, tools, and technologies in the fields of IoT, system software and web application security \
+https://owasp.org/
+
+## Infosec Black Friday Sales
+
+https://github.com/0x90n/InfoSec-Black-Friday
+
+## Collection of OSINT resources
+
+https://github.com/jivoi/awesome-osint
+
+## Australian Security Clearances
+
+You may need a clearance to work in some roles, and these are only open to passport holders \
+There are different levels of clearance, refer to the website for more info \
+https://www.agsva.gov.au/
+
+## Identity and Access Management
+
+https://www.comptia.org/blog/what-is-active-directory?utm_source=linkedin&utm_medium=organic_social&utm_campaign=Social_Certs_Blog_SM_Editorial&utm_term=Blog&utm_compid=organic_social-linkedin-sm_editorial-Social_Certs_Blog_SM_Editorial-na-na-Blog-B2C#myself \
+https://www.youtube.com/watch?v=LGpgqRVG65g&list=PLlVtbbG169nGj4rfaMUQiKiBZNDlxoo0y
+https://www.youtube.com/watch?v=mH48U0PlLKI
 
 ## MITRE Top Attack Techniques
 
@@ -62,6 +184,10 @@ https://www.enisa.europa.eu/
 
 ## SANS
 
+### OSINT and ChatGPT
+
+https://www.sans.org/webcasts/new-osint-cheat-code-chatgpt/
+
 ### "Must Have" Free Open-Source Intelligence (OSINT) Resources
 
 https://www.sans.org/blog/-must-have-free-resources-for-open-source-intelligence-osint-/
@@ -69,29 +195,3 @@ https://www.sans.org/blog/-must-have-free-resources-for-open-source-intelligence
 ### Ultimate List of SANS Cheatsheets
 
 https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/
-
-# Interesting
-
-### Defcon Conference
-
-https://www.youtube.com/user/defconconference
-
-### NDC Conference
-
-https://www.youtube.com/@NDC
-
-### BlackHat
-
-https://www.blackhat.com/
-https://www.youtube.com/user/BlackHatOfficialYT
-
-### Brian Krebs
-
-https://www.linkedin.com/in/bkrebs/ \
-https://krebsonsecurity.com/ \
-
-### Graham Cluley
-
-https://www.linkedin.com/in/grahamcluley/ \
-https://www.smashingsecurity.com/ \
-https://www.youtube.com/channel/UCc5jsl5zRbbGbXO0AB4aW4w

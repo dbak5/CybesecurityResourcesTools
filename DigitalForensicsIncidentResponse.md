@@ -39,6 +39,10 @@ https://github.com/BeanBagKing/EventFinder2
 Windows event log fast forensics timeline generator and threat hunting tool \
 https://github.com/Yamato-Security/hayabusa
 
+## SANS Investigative Forensic Toolkit (SIFT) Workstation
+
+https://www.sans.org/tools/sift-workstation/
+
 ## Event Log Explorer
 
 For viewing, analyzing and monitoring events recorded in Microsoft Windows event logs \
@@ -65,6 +69,16 @@ Free forensic phishing analysis \
 https://www.phishtool.com/
 
 # Resources
+
+## SIEMs
+
+### Splunk
+
+### Elastic (ELK Stack)
+
+### SumoLogic
+
+### LogRhythm
 
 ## Powershell Command History Forensics
 
