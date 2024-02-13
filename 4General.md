@@ -9,6 +9,10 @@ tags: ["TLP", ]
 
 # Tools
 
+## GitHub
+
+## Virtual Machines
+
 ## CyberChef
 
 Parsing, changing character encodings \
@@ -35,11 +39,6 @@ Free and open-source Linux OS for penetration testing, ethical hacking, privacy 
 https://predator-os.ir/
 
 # Practice!
-
-## Virtual Machines
-
-Setting up virtual machines \
-https://overthewire.org/wargames/bandit/ \
 
 ## Project Ideas
 
@@ -71,6 +70,10 @@ Lots of learning pathways \
 ### SANS Holiday Hack Challenge
 
 Walkthroughs \
+
+###
+
+https://overthewire.org/wargames/bandit/ \
 
 # Resources
 
