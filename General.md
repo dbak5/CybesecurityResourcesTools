@@ -36,26 +36,41 @@ https://predator-os.ir/
 
 # Practice!
 
+## Virtual Machines
+
 Setting up virtual machines \
 https://overthewire.org/wargames/bandit/ \
 
-## Australian Government Challenges
+## Project Ideas
+
+Carry out and experiment with some projects! \
+https://reconshell.com/100-red-team-projects-for-pentesters-and-network-managers/
+
+## Samples
+
+https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES
+
+## Challenges and CTFs
+
+### Australian Government Challenges
 
 https://www.asd.gov.au/careers/puzzles-and-challenges \
 https://www.cyber.gov.au/about-us/news/asdacsc-cyber-security-challenge \
 
-## TryHackMe
+### TryHackMe
 
 Advent of Cyber every year \
 Lots of learning pathways \
 
-## letsdefend.io
+### letsdefend.io
 
-## HackTheBox
+### HackTheBox
 
-## Downunderctf
+### Downunderctf
 
-## SANS Holiday Hack Challenge
+### SANS Holiday Hack Challenge
+
+Walkthroughs \
 
 # Resources
 

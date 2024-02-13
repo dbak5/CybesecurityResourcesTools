@@ -112,8 +112,6 @@ https://ss64.com/ps/syntax-eventids.html \
 https://alparslanakyildiz.medium.com/windows-event-ids-for-incident-response-cases-f3a069b8309f \
 https://medium.com/@rajeevranjancom/windows-event-log-analysis-incident-response-guide-739af79b518b \
 
-# Practice!
-
-https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES
+# Learn!
 
 ## TryHackMe Digital Forensics Room

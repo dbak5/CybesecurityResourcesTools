@@ -34,8 +34,6 @@ https://github.com/GhostPack/Rubeus
 A tool for generating multiple types of NTLMv2 hash theft files \
 https://github.com/Greenwolf/ntlm_theft
 
-## GitHub topic search on penetration testing
-
 # Resources
 
 ## Collections
@@ -53,11 +51,6 @@ https://github.com/topics/penetration-testing \
 Msfvenom is the combination of payload generation and encoding \
 https://docs.metasploit.com/docs/using-metasploit/basics/how-to-use-msfvenom.html
 
-# Practice
-
-## DIY Projects
-
-Carry out and experiment with some projects! \
-https://reconshell.com/100-red-team-projects-for-pentesters-and-network-managers/
+# Learn!
 
 ## TryHackMe Red Team Room

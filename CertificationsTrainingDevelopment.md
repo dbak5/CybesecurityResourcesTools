@@ -100,7 +100,7 @@ cyberwest
 
 ## Vic
 
-# Interesting Talks, Videos and Articles
+# Talks, Videos, Podcasts and Articles
 
 ## Defcon Conference
 
