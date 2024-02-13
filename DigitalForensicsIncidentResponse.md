@@ -9,6 +9,11 @@ tags: ["threat hunting", "windows", "event logs", "evtx", ]
 
 # Tools
 
+## Kali Linux Purple
+
+Linux OS with pre-insatlled defensive tools \
+https://www.kali.org/blog/kali-linux-2023-1-release/#kali-purple
+
 ## Volatility
 
 https://blog.onfvp.com/post/volatility-cheatsheet/ \
@@ -93,6 +98,10 @@ https://ss64.com/ps/syntax-eventids.html \
 https://alparslanakyildiz.medium.com/windows-event-ids-for-incident-response-cases-f3a069b8309f \
 https://medium.com/@rajeevranjancom/windows-event-log-analysis-incident-response-guide-739af79b518b \
 
-### Samples
+# Frameworks
+
+# Practice!
 
 https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES
+
+## TryHackMe Digital Forensics Room

@@ -9,11 +9,6 @@ tags: ["TLP", ]
 
 # Tools
 
-## Shodan
-
-Search engine for Internet-connected devices \
-https://www.shodan.io/
-
 ## CyberChef
 
 Parsing, changing character encodings \
@@ -34,15 +29,22 @@ https://cybercx.com.au/blog/cybercx-purple-teaming-tool/
 Allows you to decode, verify and generate JWT \
 https://jwt.io/
 
+## Predator-OS
+
+Free and open-source Linux OS for penetration testing, ethical hacking, privacy and hardening \
+https://predator-os.ir/
+
+# Practice!
+
+https://overthewire.org/wargames/bandit/ \
+https://www.asd.gov.au/careers/puzzles-and-challenges \
+https://www.cyber.gov.au/about-us/news/asdacsc-cyber-security-challenge \
+
 # Resources
 
 ## MITRE Top Attack Techniques
 
 https://top-attack-techniques.mitre-engenuity.org/
-
-## CORIE Framework
-
-https://www.cfr.gov.au/publications/policy-statements-and-other-reports/2022/revised-corie-framework-rollout/pdf/corie-framework.pdf
 
 ## C2
 
@@ -68,8 +70,28 @@ https://www.sans.org/blog/-must-have-free-resources-for-open-source-intelligence
 
 https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/
 
-## Practice
+# Interesting
 
-https://overthewire.org/wargames/bandit/ \
-https://www.asd.gov.au/careers/puzzles-and-challenges \
-https://www.cyber.gov.au/about-us/news/asdacsc-cyber-security-challenge \
+### Defcon Conference
+
+https://www.youtube.com/user/defconconference
+
+### NDC Conference
+
+https://www.youtube.com/@NDC
+
+### BlackHat
+
+https://www.blackhat.com/
+https://www.youtube.com/user/BlackHatOfficialYT
+
+### Brian Krebs
+
+https://www.linkedin.com/in/bkrebs/ \
+https://krebsonsecurity.com/ \
+
+### Graham Cluley
+
+https://www.linkedin.com/in/grahamcluley/ \
+https://www.smashingsecurity.com/ \
+https://www.youtube.com/channel/UCc5jsl5zRbbGbXO0AB4aW4w
