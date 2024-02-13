@@ -61,10 +61,3 @@ Carry out and experiment with some projects! \
 https://reconshell.com/100-red-team-projects-for-pentesters-and-network-managers/
 
 ## TryHackMe Red Team Room
-
-# Frameworks
-
-## Metasploit
-
-A framework security vulnerabilities and penetration testing and IDS signature development \
-https://docs.metasploit.com/

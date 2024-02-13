@@ -57,86 +57,6 @@ Lots of learning pathways \
 
 ## SANS Holiday Hack Challenge
 
-# Networking Groups
-
-## SecTalks
-
-## WA
-
-## NT
-
-## ACT
-
-## NSW
-
-## Tas
-
-## SA
-
-## QLD
-
-## Vic
-
-## Bsides
-
-## WA
-
-## NT
-
-## ACT
-
-## NSW
-
-## Tas
-
-## SA
-
-## QLD
-
-## Vic
-
-## Second Thursday of the Month Club (STOTM)
-
-## WA
-
-## NT
-
-## ACT
-
-## NSW
-
-## Tas
-
-## SA
-
-## QLD
-
-## Vic
-
-## Women in Technology WA
-
-## Australian Women in Security Network
-
-# Australian Conferences
-
-## WA
-
-cyberwest
-
-## NT
-
-## ACT
-
-## NSW
-
-## Tas
-
-## SA
-
-## QLD
-
-## Vic
-
 # Resources
 
 ## Open Worldwide Application Security Project (OWASP)
@@ -177,10 +97,6 @@ https://cybersecuritynews-com.cdn.ampproject.org/c/s/cybersecuritynews.com/comma
 ## Traffic Light Protocol Definitions and Usage
 
 https://www.cisa.gov/news-events/news/traffic-light-protocol-tlp-definitions-and-usage
-
-## European Union Agency for Cybersecurity
-
-https://www.enisa.europa.eu/
 
 ## SANS
 

@@ -41,11 +41,13 @@ https://talosintelligence.com/
 
 # Resources
 
-# SSL Certificate Country Codes
+## SSL Certificate Country Codes
 
 May appear in network packets \
 https://www.digicert.com/kb/ssl-certificate-country-codes.htm
 
-# Wireshark How To
+## Wireshark How To
 
 https://osqa-ask.wireshark.org/questions/41034/extract-certificate-info-with-tshark/
+
+# Practice

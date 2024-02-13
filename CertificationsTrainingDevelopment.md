@@ -43,7 +43,7 @@ https://www.isaca.org/
 
 ## Splunk
 
-# Training Programs
+# Education and Training Programs
 
 ## Australian Women in Security Network
 
@@ -79,6 +79,26 @@ https://www.southmetrotafe.wa.edu.au/courses/certificate-iv-cyber-security
 
 This may also get you access to LinkedIn Learning resources \
 You can also get discounts to TryHackMe \
+
+# Australian Conferences
+
+## WA
+
+cyberwest
+
+## NT
+
+## ACT
+
+## NSW
+
+## Tas
+
+## SA
+
+## QLD
+
+## Vic
 
 # Interesting Talks, Videos and Articles
 
