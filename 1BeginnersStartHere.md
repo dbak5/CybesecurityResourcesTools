@@ -30,8 +30,8 @@ I noticed that there seems to be a focus on writing and communicating to non-tec
 Here's what I did:
 
 - practice writing cover letters.
-- write assignments and put effort into writing them clearly and in non-technical language (unless otherwise requested).
-- when doing projects and self study, practice writing out walkthroughs or new knowledge. This will also solidify it.
+- write assignments and put effort into writing them clearly and in non-technical language (unless otherwise requested) with proper grammar and spelling.
+- when doing projects and self study, practice writing out a walkthrough or a report on the new knowledge. This will also solidify it.
 - avoid using AI to write everything for you - it's tempting but I found it often misses key points or is outright wrong. If you must use it, make sure you read what it has written and then try to reword it.
 
 ## Practice and Showcase
@@ -40,19 +40,19 @@ Practicing the skills you've learnt is important, and if you can demonstrate it,
 This seems to be as (if not more) important as having formal education or training. \
 Here's what I did:
 
-- set up my own segmented home network and firewall rules
+- investigated technologies and practised using them
 - used GitHub to publicly share projects
 - shared ideas and lessons learnt on LinkedIn
-- write ups and walkthroughs of TryHackMe rooms
+- write ups and walkthroughs of hackathons / capture the flag events
 - set up my own workspace for carrying out practical tasks on a virtual machine using Kali Linux OS
 
 **_A bit more on virtual machines..._**
 
-<em>You should understand and learn how to set up your own virtual machine; this is how we are able to safely analyse compromised environments.</em>
+<em>You should understand and learn how to set up your own virtual machine; this is how we are able to safely analyse potentially compromised environments.</em>
 
 ## Professional Bodies
 
-Make sure you join professional bodies for resources and networking opportunities, including mentorship programs. Local ones are best if you want access to local events and training. Refer to the Professional Networking Bodies Page for further detail.
+Make sure you join professional bodies for resources and networking and training opportunities, including mentorship programs. Local ones are best if you want access to local events and training. Refer to the Professional Networking Bodies Page for further detail.
 
 ## General Overview of Cybersecurity Roles
 
@@ -83,8 +83,8 @@ If you gain a role, then your employer may pay for you to get certifications. Pa
 These are very formal and tend to take a more generalised approach to learning and does not provide detailed technical, practical knowledge.\
 They can take a long time also. \
 If you want to work in areas that are highly technical, Certificate IV or TAFE courses are probably going to be more helpful. \
-Still looks good on a job application, as you can demonstrate that you have the ability to see things through to the end. \
-Postgraduate studies are extremely expensive - but you get access to graduate recruitment programs. \
+They still look good on a job application because it demonstrates tenacity; you can finish what you started. \
+Postgraduate studies are extremely expensive - but you get access to graduate recruitment programs upon completion. \
 \
 The main ones are:
 
@@ -115,7 +115,7 @@ I found that there are minimal entry level roles available, and it is disappoint
 
 ### Recruiters
 
-You may opt to find a recruiter. I have not had much luck in this space, but worth giving it a go. I have not done much research in this space but perhaps if I get more desperate, I'll add some suggestions here.
+You may opt to find a recruiter. I have not had much luck in this space, but worth giving it a go. I have not done much research on it yet, but perhaps if I get more desperate, I'll add some suggestions here.
 
 ### Practice and Demonstrate
 
@@ -123,11 +123,15 @@ There has been a lot of mention about practice! Without practice and demonstrati
 \
 **_So practice, practice, practice._**
 
-### Entry level
+### Entry pathways
 
 Many professionals I spoke with started out in a different area to cyber (e.g. helpdesk or finance), then pivoted into cyber from within the same organisation. This may be a good entry point, because you can leverage the reputation you have built with stakeholders and clients. \
 \
-There are also entry level programs, such as the CyberCX Academy which I mentioned previously, and genearl graduate programs available to students completing a degree or higher.
+There are also entry level programs, such as the CyberCX Academy which I mentioned previously, and graduate programs available to students completing a degree or higher.\
+\
+Some organisations will ask TAFE teachers to recommend their top students. Therefore, if you're doing TAFE courses, perform your best and maybe it will result in a recommendation.\
+\
+And finally, the most obvious is the old help desk / IT support. I've been hesitant to do this and it's not because I'm not willing to do that type of work, but most people know that it is not the most rewarding and, to me, it really feels like a drastic step backward from my previous career. I will try other avenues first, but I'm not discounting it completely.
 
 ### Career Changers
 
