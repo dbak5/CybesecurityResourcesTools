@@ -8,6 +8,12 @@ The contents of this specific page is information I wish I had known sooner, and
 \
 The following are areas that are important when you're starting out.
 
+## Figure out what you want to do
+
+There are many different types of roles in cybersecurity, with so much to learn about each. At first, I had no idea what I wanted to do, and was learning everything I could. There are only so many hours in the day; you can't learn it all and also learn it well. You will become a jack of all trades and master of none! \
+\
+Therefore, it is easier to find what kind of role you want, and focus on learning the things you need to for that role. If you want to do Governance, Risk and Compliance (GRC), learn about all the frameworks and regulation. If you want to do red teaming, learn about penetration testing etc. \
+
 ## Networking
 
 This is probably the most important part of trying to get into cyber. Having a network can help you find a job, understand the different roles there are, give key insights into the industry and provide you with support and some new friends! \
