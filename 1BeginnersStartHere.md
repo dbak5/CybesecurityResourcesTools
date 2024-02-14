@@ -111,7 +111,7 @@ This has been the hardest part and these are my findings so far.
 
 Firstly, due to most of Australian Federal Government Bodies residing in Canberra, there are many, many opportunities there. If you're willing to move to and live in Canberra - perhaps consider this. \
 \
-I found that there are minimal entry level roles available, and it is disappointing that there are not more programs like the CyberCX Academy. Purportedly, there is a shortage in cyber skills, yet no organisations appear to be investing in future generations of cyber professionals. This makes entry level roles highly competitive and you will need to really stand out on your job application.
+I found that there are minimal entry level roles available, and it is disappointing that there are not more programs like the CyberCX Academy. Purportedly, there is a shortage in cyber skills, yet few organisations appear to be investing in future generations of cyber professionals. This makes entry level roles highly competitive and you will need to really stand out on your job application.
 
 ### Recruiters
 
