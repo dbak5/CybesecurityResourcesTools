@@ -139,15 +139,23 @@ There are many career changers in cybersecurity. Many cybersecurity organisation
 \
 **_So don't think that you don't have skills to bring to the table. You are not starting from square one._**
 
-### Women in Cybersecurity
+### Gender Diversity
 
 Women are still a minority, although that is slowly changing.\
 Many organisations have managed to find a balance in gender diversity, however I have heard stories of 'being the only woman in the room'.
 Many organisations are still working on gender diversity. The good news for women is that you are sought after! \
 
-### Neurodiversity in Cybersecurity
+### Neurodiversity
 
-Anecdotally, I've found that there are many neurodiverse individuals in the industry - which is amazing! The work seems well suited to the neurodiverse mind.
+Anecdotally, I've found that there are many neurodiverse individuals in the industry - which is amazing! The work seems well suited to the neurodiverse mind.\
+\
+My thoughts (are generalised and obviously do not apply to everyone):
+
+- can analyse and hyperfocus
+- can provide innovative insights
+- like to investigate and delve deep into data
+- like to get technical
+- can work from home well and can work independently
 
 ### Major hiring companies
 
@@ -155,10 +163,10 @@ The main companies found during my research are:
 
 - The major banks - always seeking pentesters (no surprises there).
 - CyberCX - have the CyberCX Academy, but this is very competitive. I've heard that CyberCX have a great and supportive culture for newbies though, so worth trying.
-- DxC Technologies.
+- DxC Technologies - apparently have a neurodiversity program but I haven't been able to figure out when it opens or how to apply.
 - Australian Signals Directorate / Defence - have regular graduate programs, but can be difficult to navigate the recruitment process.
-- Crowdstrike - remote first culture, so this is no good if you prefer to be in the office. They also do not offer a lot of 'entry level' roles.
+- Crowdstrike - remote first culture - no good if you prefer to be in the office. They also do not offer a lot of 'entry level' roles.
 - The Big 4 Accounting Firms
 - Paraflare
 
-If you feel that you are just waving about in the breeze (applying for roles), one piece of advice I was given is to focus on a couple of companies you are interested in, network with people from within the organisation to see how you can stand out in an application.
+If you feel that you are just waving about in the breeze (applying for roles), one piece of advice I was given is to focus on a couple of companies you are interested in, network with people from within the organisation and ask questions, i.e. how you can stand out in an application.
