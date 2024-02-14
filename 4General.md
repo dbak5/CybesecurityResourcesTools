@@ -9,10 +9,6 @@ tags: ["TLP", ]
 
 # Tools
 
-## GitHub
-
-## Virtual Machines
-
 ## CyberChef
 
 Parsing, changing character encodings \

@@ -29,13 +29,24 @@ https://www.cyber.gov.au/resources-business-and-government/essential-cyber-secur
 
 # Legislation
 
-## Australian
+## Australian Federal Legislation
+
+Privacy Act 1988 \
+Commonwealth Criminal Code Act 1995 \
+
+Does not include state or territory level legislation which may include specific laws.
 
 ## International
+
+GDPR \
 
 # Frameworks
 
 ## Australian
+
+### CORIE
+
+https://www.cfr.gov.au/publications/policy-statements-and-other-reports/2022/revised-corie-framework-rollout/pdf/corie-framework.pdf
 
 ### ISM
 
@@ -45,16 +56,12 @@ https://www.cyber.gov.au/resources-business-and-government/essential-cyber-secur
 
 ## International
 
-## CORIE
-
-https://www.cfr.gov.au/publications/policy-statements-and-other-reports/2022/revised-corie-framework-rollout/pdf/corie-framework.pdf
-
-## Metasploit
+### Metasploit
 
 A framework security vulnerabilities and penetration testing and IDS signature development \
 https://docs.metasploit.com/
 
-## MITRE ATT&CK
+### MITRE ATT&CK
 
 https://cve.mitre.org/ \
 https://attack.mitre.org/ \
@@ -66,15 +73,15 @@ https://mitre-engenuity.org/ \
 https://mitre-engenuity.org/cybersecurity/center-for-threat-informed-defense/ \
 https://attack.mitre.org/resources/adversary-emulation-plans/ \
 
-## SABSA
+### SABSA
 
-## ISO
+### ISO
 
-## Lockheed Martin's Cyber Kill Chain
+### Lockheed Martin's Cyber Kill Chain
 
-## NIST
+### NIST
 
-## OSINT
+### OSINT
 
 https://osintframework.com/
 
