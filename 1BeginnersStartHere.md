@@ -141,9 +141,9 @@ There are many career changers in cybersecurity. Many cybersecurity organisation
 
 ### Women in Cybersecurity
 
-Women are still a minority, although that it slowly changing.\
-Many organisations have managed to find a good balance of gender diversity and some are still working on it. The good news for women is that you are sought after! \
-However, I have heard stories of 'being the only woman in the room'. Be resilient and tenacious.
+Women are still a minority, although that is slowly changing.\
+Many organisations have managed to find a balance in gender diversity, however I have heard stories of 'being the only woman in the room'.
+Many organisations are still working on gender diversity. The good news for women is that you are sought after! \
 
 ### Neurodiversity in Cybersecurity
 
