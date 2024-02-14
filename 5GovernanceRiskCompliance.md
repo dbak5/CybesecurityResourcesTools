@@ -27,8 +27,6 @@ https://www.cyber.gov.au/irap
 Baseline mitigation strategies for organisations to follow \
 https://www.cyber.gov.au/resources-business-and-government/essential-cyber-security/essential-eight
 
-### IMS
-
 # Legislation
 
 ## Australian
@@ -38,6 +36,12 @@ https://www.cyber.gov.au/resources-business-and-government/essential-cyber-secur
 # Frameworks
 
 ## Australian
+
+### ISM
+
+Information Security Manual \
+A framework that an organisation can apply, using their risk management framework, to protect their systems and data from cyber threats \
+https://www.cyber.gov.au/resources-business-and-government/essential-cyber-security/ism
 
 ## International
 

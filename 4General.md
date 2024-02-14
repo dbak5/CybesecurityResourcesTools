@@ -38,43 +38,6 @@ https://jwt.io/
 Free and open-source Linux OS for penetration testing, ethical hacking, privacy and hardening \
 https://predator-os.ir/
 
-# Practice!
-
-## Project Ideas
-
-Carry out and experiment with some projects! \
-https://reconshell.com/100-red-team-projects-for-pentesters-and-network-managers/
-
-## Samples
-
-https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES
-
-## Challenges and CTFs
-
-### Australian Government Challenges
-
-https://www.asd.gov.au/careers/puzzles-and-challenges \
-https://www.cyber.gov.au/about-us/news/asdacsc-cyber-security-challenge \
-
-### TryHackMe
-
-Advent of Cyber every year \
-Lots of learning pathways \
-
-### letsdefend.io
-
-### HackTheBox
-
-### Downunderctf
-
-### SANS Holiday Hack Challenge
-
-Walkthroughs \
-
-###
-
-https://overthewire.org/wargames/bandit/ \
-
 # Resources
 
 ## Open Worldwide Application Security Project (OWASP)

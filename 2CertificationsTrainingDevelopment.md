@@ -98,6 +98,10 @@ CISCO \
 
 # Australian Conferences
 
+International conferences may be difficult due to time zones so I haven't included, but if you're willing to attend at 12am, by all means do so! \
+
+Australian Cyber Conference
+
 ## WA
 
 cyberwest
@@ -167,3 +171,43 @@ https://malicious.life/ \
 https://www.risky.biz/ \
 https://thecyberwire.com/podcasts/daily-podcast \
 https://inteltechniques.com/podcast.html
+
+# Practice!
+
+## Project Ideas
+
+Carry out and experiment with some projects! \
+https://reconshell.com/100-red-team-projects-for-pentesters-and-network-managers/
+
+## Samples
+
+https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES
+
+## Challenges and CTFs
+
+BSIDES hackathon
+WACTF - https://wac.tf/
+
+### Australian Government Challenges
+
+https://www.asd.gov.au/careers/puzzles-and-challenges \
+https://www.cyber.gov.au/about-us/news/asdacsc-cyber-security-challenge \
+
+### TryHackMe
+
+Advent of Cyber every year \
+Lots of learning pathways \
+
+### letsdefend.io
+
+### HackTheBox
+
+### Downunderctf
+
+### SANS Holiday Hack Challenge
+
+Walkthroughs \
+
+###
+
+https://overthewire.org/wargames/bandit/ \
