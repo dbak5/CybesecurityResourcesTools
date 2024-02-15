@@ -17,6 +17,7 @@ Therefore, it is easier to find what kind of role you want, and focus on learnin
 ## Networking
 
 This is probably the most important part of trying to get into cyber. Having a network can help you find a job, understand the different roles there are, give key insights into the industry and provide you with support and some new friends! \
+\
 I am an introvert and networking can be nightmarish - the thought of attending a 'networking event' gives me loads of anxiety! Therefore, one-on-one chats are probably the way to go if you're also an introvert. \
 \
 Here's what I did:

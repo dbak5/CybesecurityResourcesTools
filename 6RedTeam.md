@@ -34,9 +34,28 @@ https://github.com/GhostPack/Rubeus
 A tool for generating multiple types of NTLMv2 hash theft files \
 https://github.com/Greenwolf/ntlm_theft
 
+## Steghide
+
+https://steghide.sourceforge.net/
+
 # Resources
 
-## Collections
+## Common Vulnerabilities and Exposures (CVEs)
+
+CVEs take the form: CVE-YEAR-IDNUMBER.\
+https://cve.mitre.org/
+
+## Exploit Database
+
+Contains exploits that can be downloaded and used straight out of the box. \
+https://www.exploit-db.com/
+
+## National Vulnerability Database (NVD)
+
+NVD keeps track of CVEs. \
+https://nvd.nist.gov/vuln/search
+
+## Other Collections
 
 Other collections already available \
 https://exploit-notes.hdks.org/ \

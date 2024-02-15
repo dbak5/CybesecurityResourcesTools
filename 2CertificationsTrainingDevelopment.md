@@ -135,17 +135,6 @@ https://www.youtube.com/@NDC
 https://www.blackhat.com/ \
 https://www.youtube.com/user/BlackHatOfficialYT
 
-## Brian Krebs
-
-https://www.linkedin.com/in/bkrebs/ \
-https://krebsonsecurity.com/
-
-## Graham Cluley
-
-https://www.linkedin.com/in/grahamcluley/ \
-https://www.smashingsecurity.com/ \
-https://www.youtube.com/channel/UCc5jsl5zRbbGbXO0AB4aW4w
-
 ## The Hacker News
 
 https://www.linkedin.com/company/thehackernews/ \
@@ -171,6 +160,31 @@ https://malicious.life/ \
 https://www.risky.biz/ \
 https://thecyberwire.com/podcasts/daily-podcast \
 https://inteltechniques.com/podcast.html
+
+## Brian Krebs
+
+https://www.linkedin.com/in/bkrebs/ \
+https://krebsonsecurity.com/
+
+## Graham Cluley
+
+https://www.linkedin.com/in/grahamcluley/ \
+https://www.smashingsecurity.com/ \
+https://www.youtube.com/channel/UCc5jsl5zRbbGbXO0AB4aW4w
+
+# People with interesting things to say
+
+James Mickens \
+Jayson E. Street \
+Cooper Quintin \
+Zoz \
+Mudge \
+
+# Interesting topics
+
+Spyware as a service \
+Cyber mercenaries \
+Social engineering \
 
 # Practice!
 
