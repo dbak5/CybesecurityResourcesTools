@@ -36,6 +36,7 @@ https://github.com/Greenwolf/ntlm_theft
 
 ## Steghide
 
+A steganography program that is able to hide data in various kinds of image- and audio-files \
 https://steghide.sourceforge.net/
 
 # Resources
@@ -64,11 +65,6 @@ https://github.com/redskycyber/Cloud-Security/blob/main/AWS-Security-Pentesting-
 
 You can search GitHub topics to find further resources on pentesting \
 https://github.com/topics/penetration-testing \
-
-## How to use MSFvenom
-
-Msfvenom is the combination of payload generation and encoding \
-https://docs.metasploit.com/docs/using-metasploit/basics/how-to-use-msfvenom.html
 
 # Learn!
 

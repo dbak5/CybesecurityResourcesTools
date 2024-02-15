@@ -55,25 +55,9 @@ You may need a clearance to work in some roles, and these are only open to passp
 There are different levels of clearance, refer to the website for more info \
 https://www.agsva.gov.au/
 
-## Identity and Access Management
-
-https://www.comptia.org/blog/what-is-active-directory?utm_source=linkedin&utm_medium=organic_social&utm_campaign=Social_Certs_Blog_SM_Editorial&utm_term=Blog&utm_compid=organic_social-linkedin-sm_editorial-Social_Certs_Blog_SM_Editorial-na-na-Blog-B2C#myself \
-https://www.youtube.com/watch?v=LGpgqRVG65g&list=PLlVtbbG169nGj4rfaMUQiKiBZNDlxoo0y
-https://www.youtube.com/watch?v=mH48U0PlLKI
-
 ## MITRE Top Attack Techniques
 
 https://top-attack-techniques.mitre-engenuity.org/
-
-## C2
-
-https://www.varonis.com/blog/what-is-c2 \
-https://www.imperva.com/learn/application-security/reverse-shell/ \
-https://cybersecuritynews-com.cdn.ampproject.org/c/s/cybersecuritynews.com/command-and-controlc2-server/?amp
-
-## Traffic Light Protocol Definitions and Usage
-
-https://www.cisa.gov/news-events/news/traffic-light-protocol-tlp-definitions-and-usage
 
 ## SANS
 
@@ -88,3 +72,5 @@ https://www.sans.org/blog/-must-have-free-resources-for-open-source-intelligence
 ### Ultimate List of SANS Cheatsheets
 
 https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/
+
+## RedHat

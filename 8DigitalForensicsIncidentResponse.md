@@ -63,6 +63,13 @@ https://github.com/zdhenard42/SOC-Multitool
 A library and collection of command line tools that allow you to investigate disk images \
 https://www.sleuthkit.org/sleuthkit/index.php
 
+## ssdeep
+
+A program for computing context triggered piecewise hashes (CTPH), AKA fuzzy hashes \
+https://ssdeep-project.github.io/ssdeep/index.html \
+
+https://redis.com/blog/what-is-fuzzy-matching/
+
 ## PhishTool
 
 Free forensic phishing analysis \
@@ -80,19 +87,10 @@ https://www.phishtool.com/
 
 ### LogRhythm
 
-## Powershell Command History Forensics
-
-https://community.sophos.com/sophos-labs/b/blog/posts/powershell-command-history-forensics#Adversarial%20Tactics
-
 ## Awesome Incident Response
 
 Compilation of tools and resources \
 https://github.com/meirwah/awesome-incident-response
-
-## The DFIR Report
-
-Analyzed data from the perspective of a threat actor’s host \
-https://thedfirreport.com/2023/12/18/lets-opendir-some-presents-an-analysis-of-a-persistent-actors-activity/
 
 ## Notepad
 

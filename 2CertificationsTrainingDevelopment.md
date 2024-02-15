@@ -161,6 +161,8 @@ https://www.risky.biz/ \
 https://thecyberwire.com/podcasts/daily-podcast \
 https://inteltechniques.com/podcast.html
 
+# People with interesting things to say
+
 ## Brian Krebs
 
 https://www.linkedin.com/in/bkrebs/ \
@@ -172,19 +174,48 @@ https://www.linkedin.com/in/grahamcluley/ \
 https://www.smashingsecurity.com/ \
 https://www.youtube.com/channel/UCc5jsl5zRbbGbXO0AB4aW4w
 
-# People with interesting things to say
-
 James Mickens \
 Jayson E. Street \
 Cooper Quintin \
 Zoz \
 Mudge \
 
-# Interesting topics
+# Interesting reads and topics
 
 Spyware as a service \
 Cyber mercenaries \
 Social engineering \
+
+https://www.offsec.com/metasploit-unleashed/persistent-backdoors/ \
+https://www.redhat.com/en/topics/devops/what-is-ci-cd \
+https://docs.metasploit.com/docs/using-metasploit/basics/how-to-use-msfvenom.html \
+https://portswigger.net/web-security/jwt \
+https://www.beyondtrust.com/resources/glossary/pass-the-hash-pth-attack \
+
+## The DFIR Report
+
+Analyzed data from the perspective of a threat actor’s host \
+https://thedfirreport.com/2023/12/18/lets-opendir-some-presents-an-analysis-of-a-persistent-actors-activity/
+
+## Traffic Light Protocol Definitions and Usage
+
+https://www.cisa.gov/news-events/news/traffic-light-protocol-tlp-definitions-and-usage
+
+## Powershell Command History Forensics
+
+https://community.sophos.com/sophos-labs/b/blog/posts/powershell-command-history-forensics#Adversarial%20Tactics
+
+## C2
+
+https://www.varonis.com/blog/what-is-c2 \
+https://www.imperva.com/learn/application-security/reverse-shell/ \
+https://cybersecuritynews-com.cdn.ampproject.org/c/s/cybersecuritynews.com/command-and-controlc2-server/?amp
+
+## Identity and Access Management
+
+https://www.comptia.org/blog/what-is-active-directory?utm_source=linkedin&utm_medium=organic_social&utm_campaign=Social_Certs_Blog_SM_Editorial&utm_term=Blog&utm_compid=organic_social-linkedin-sm_editorial-Social_Certs_Blog_SM_Editorial-na-na-Blog-B2C#myself \
+https://www.youtube.com/watch?v=LGpgqRVG65g&list=PLlVtbbG169nGj4rfaMUQiKiBZNDlxoo0y
+https://www.youtube.com/watch?v=mH48U0PlLKI
 
 # Practice!
 
@@ -199,7 +230,7 @@ https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES
 
 ## Challenges and CTFs
 
-BSIDES hackathon
+BSIDES hackathon \
 WACTF - https://wac.tf/
 
 ### Australian Government Challenges

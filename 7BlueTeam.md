@@ -36,19 +36,20 @@ https://www.tenable.com/blog/how-to-run-your-first-vulnerability-scan-with-nessu
 
 https://www.cvedetails.com/
 
-## JWT Attacks
+## SSL Blacklist
 
-https://portswigger.net/web-security/jwt
+A blocklist for malicious SSL certificates and JA3/JA3s fingerprints \
+https://sslbl.abuse.ch/
 
-## Pash the Hash Attacks
+## Threat Fox
 
-https://www.beyondtrust.com/resources/glossary/pass-the-hash-pth-attack
+A database of indicators of compromise (IOCs) \
+https://threatfox.abuse.ch/
 
-## Detecting alternate data streams
+## Feodo Tracker
 
-https://www.itprotoday.com/security/detecting-alternate-data-streams \
-https://www.minitool.com/partition-disk/alternate-data-streams.html \
-https://blog.netwrix.com/2022/12/16/alternate_data_stream/
+Used to track botnet command and control (C2) infrastructure linked with Emotet, Dridex and TrickBot \
+https://feodotracker.abuse.ch/
 
 # Learn!
 
