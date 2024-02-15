@@ -7,7 +7,11 @@ tags: [ ]
 
 ---
 
-# Australian Government Bodies
+This is mainly Australian-focused but it is important to comply with local laws and regulations for any organisation operating in another country, for example, the GDPR in the EU. \
+
+Australia is still developing in this space, so it is important to keep up to date with any developments. \
+
+# Government Bodies
 
 The Australian Cyber Security Centre, the successor to the Cyber Security Operations Centre, is the Australian Government's lead agency for cybersecurity \
 https://www.cyber.gov.au/
@@ -15,7 +19,7 @@ https://www.cyber.gov.au/
 A statutory agency within the Defence Portfolio with functions established by the Intelligence Services Act 2001 \
 https://www.asd.gov.au/about/what-we-do/cyber-security
 
-# Australian Government Programs
+# Government Programs
 
 ### Infosec Registered Assessors Program (IRAP)
 
@@ -29,16 +33,11 @@ https://www.cyber.gov.au/resources-business-and-government/essential-cyber-secur
 
 # Legislation
 
-## Australian Federal Legislation
-
 Privacy Act 1988 \
 Commonwealth Criminal Code Act 1995 \
+Intelligence Services Act 2001 \
 
-Does not include state or territory level legislation which may include specific laws.
-
-## International
-
-GDPR \
+Does not include state or territory level legislation which may include specific laws that need to be considered.
 
 # Frameworks
 
@@ -85,6 +84,8 @@ https://attack.mitre.org/resources/adversary-emulation-plans/ \
 
 https://osintframework.com/
 
+### Zero Trust
+
 # Principles and Models
 
 ## CIA Triad
@@ -96,3 +97,5 @@ https://www.techtarget.com/whatis/definition/Confidentiality-integrity-and-avail
 ## UKC
 
 ## OSI
+
+## TCP/IP

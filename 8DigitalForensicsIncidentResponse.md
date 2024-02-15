@@ -101,9 +101,7 @@ Look at notepad history \
 
 https://en.wikipedia.org/wiki/List_of_file_signatures
 
-## Windows Events
-
-### Event IDs
+## Windows Event IDs
 
 https://www.socinvestigation.com/windows-rdp-event-ids-cheatsheet/ \
 https://ss64.com/ps/syntax-eventids.html \

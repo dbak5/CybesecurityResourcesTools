@@ -24,7 +24,7 @@ Here's what I did:
 
 - Find a mentor (or several).
 - Arrange to chat with people over coffee, ask them questions about what they do.
-- Join networking groups - they usually have a mentorship program. If you're a student you can get a discount on fees.
+- Join networking groups and professional bodies - they usually have a mentorship program. If you're a student you can get a discount on fees.
 - Connect with professionals on LinkedIn and start a conversation. Go for coffee.
 - Remember that others are probably feeling the same way you are, if you end up at a networking event, perhaps look for another terrified, quiet person.
 
@@ -51,11 +51,13 @@ Here's what I did:
 - used GitHub to publicly share projects
 - shared ideas and lessons learnt on LinkedIn
 - write ups and walkthroughs of hackathons / capture the flag events
-- set up my own workspace for carrying out practical tasks on a virtual machine using Kali Linux OS
+- set up my own workspace for carrying out practical tasks on a virtual machine (VM) using Kali Linux OS
 
-**_A bit more on virtual machines..._**
+**_A bit more on VMs..._**
 
-<em>You should understand and learn how to set up your own virtual machine; this is how we are able to safely analyse potentially compromised environments.</em>
+<em>You should understand and learn how to set up your own VM; this is how we are able to safely analyse potentially compromised environments. \
+\
+It is recommended to use an operating system (OS) on your VM that is not the same as the environment you want to examine. For example, use Linux OS to examine Windows OS. This will prevent infecting your VM with any Windows-related malware. For this reason, it is good to familiarise yourself with multiple operating environments. </em>
 
 ## Professional Bodies
 

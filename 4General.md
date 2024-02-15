@@ -72,5 +72,3 @@ https://www.sans.org/blog/-must-have-free-resources-for-open-source-intelligence
 ### Ultimate List of SANS Cheatsheets
 
 https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/
-
-## RedHat
