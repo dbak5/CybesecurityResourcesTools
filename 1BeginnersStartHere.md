@@ -6,13 +6,23 @@ This is mainly a collection of resources and tools I've collected from my journe
 \
 The contents of this specific page is information I wish I had known sooner, and therefore want to share with others so you don't make the same bad decisions I did - ha! \
 \
-The following are areas that are important when you're starting out.
+The following are important considerations when you're starting out.
 
 ## Figure out what you want to do
 
-There are many different types of roles in cybersecurity, with so much to learn about each. At first, I had no idea what I wanted to do, and was learning everything I could. There are only so many hours in the day; you can't learn it all and also learn it well. You will become a jack of all trades and master of none! \
+There are many different types of roles in cybersecurity, with so much to learn about each. At first, I had no idea what I wanted to do, and was learning everything I could. There are only so many hours in the day; you can't learn it all and also learn it well. \
 \
-Therefore, it is easier to find what kind of role you want, and focus on learning the things you need to for that role. If you want to do Governance, Risk and Compliance (GRC), learn about all the frameworks and regulation. If you want to do red teaming, learn about penetration testing etc. \
+Therefore, it is easier to find what kind of role you want, and focus on learning the things you need to for that role. If you want to do Governance, Risk and Compliance (GRC), learn about the frameworks and regulation. If you want to do red teaming, learn about penetration testing etc. \
+\
+If you aren't sure, do your research, talk to people in these areas. Ask them questions like what their day looks like, what sorts of things they do. These questions helped me to understand what these roles meant and decide if they were for me. Which is why networking is so vital.
+
+### General Overview of Cybersecurity Roles
+
+In simple terms, **_Governance, Risk and Compliance (GRC)_**, is where the policy and compliance is done. Therefore, regulation and frameworks are super important.
+**_Red Team_** are an organisation's internal group of hackers who try to attack the organisation's defenses, while the **_blue team_** will try to defend against the attack. There may be a **_purple team_**, which is a red abd blue team that work in unison. \
+\
+More on it here:\
+https://www.crowdstrike.com/cybersecurity-101/red-team-vs-blue-team/
 
 ## Networking
 
@@ -43,8 +53,8 @@ Here's what I did:
 
 ## Practice and Showcase
 
-Practicing the skills you've learnt is important, and if you can demonstrate it, even better! \
-This seems to be as (if not more) important as having formal education or training. \
+Practicing the skills you've learnt is important, and if you can demonstrate it, even better! This seems to be as (if not more) important as having formal education or training. \
+\
 Here's what I did:
 
 - investigated technologies and practised using them
@@ -62,18 +72,6 @@ It is recommended to use an operating system (OS) on your VM that is not the sam
 ## Professional Bodies
 
 Make sure you join professional bodies for resources and networking and training opportunities, including mentorship programs. Local ones are best if you want access to local events and training. Refer to the Professional Networking Bodies Page for further detail.
-
-## General Overview of Cybersecurity Roles
-
-### Governance, Risk and Compliance
-
-### Red Team
-
-https://fourcore.io/blogs/red-blue-purple-teaming
-
-### Blue Team
-
-### DFIR
 
 ## Education and Training
 
@@ -152,7 +150,7 @@ There are many career changers in cybersecurity. Many cybersecurity organisation
 
 Women are still a minority, although that is slowly changing.\
 Many organisations have managed to find a balance in gender diversity, however I have heard stories of 'being the only woman in the room'. \
-Many organisations are still working on gender diversity which means good news for women! They are highly sought after! \
+Many organisations are still working on gender diversity which means good news for women! They are highly sought after!
 
 ### Neurodiversity
 
