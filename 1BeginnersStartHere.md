@@ -75,14 +75,14 @@ https://fourcore.io/blogs/red-blue-purple-teaming
 
 ## Education and Training
 
-There a many free training programs out there. If you are just starting out, then look for these first. \
+There a many free or subsidised training programs out there. If you are just starting out, then look for these first. \
 While it's not always compulsory to have tertiary studies, it can certainly help. It is important, however, to factor in a number of things when choosing between the two if you don't want to waste time and money.
 
 ### Certifications
 
 Certifications can be expensive so you need to consider if they are necessary. \
 Anecdotally, I've heard they're not the most important aspect of gaining a job - employers want to see evidence of your skills in the form of practical examples and experience. \
-Furthermore, the certifications you may need may depend on the role you want, and therefore, be cautious before diving into a specific certification. \
+Furthermore, the certifications you need may depend on the role you want, and therefore, be cautious before diving into a specific certification. \
 If you gain a role, then your employer may pay for you to get certifications. Paying for it yourself beforehand doesn't make economical sense.
 
 ### Bachelor and Postgrad Studies
@@ -114,11 +114,11 @@ Cybersecurity is constantly evolving, you need to keep on top of the latest upda
 
 ## Getting a Job
 
-This has been the hardest part and these are my findings so far.
-
+This has been the hardest part and these are my findings so far. \
+\
 Firstly, due to most of Australian Federal Government Bodies residing in Canberra, there are many, many opportunities there. If you're willing to move to and live in Canberra - perhaps consider this. \
 \
-I found that there are minimal entry level roles available, and it is disappointing that there are not more programs like the CyberCX Academy. Purportedly, there is a shortage in cyber skills, yet few organisations appear to be investing in future generations of cyber professionals. This makes entry level roles highly competitive and you will need to really stand out on your job application.
+I found that there are minimal entry level roles available, and it is disappointing that there are not more programs like the CyberCX Academy. Purportedly, there is a shortage in cyber skills, yet few organisations appear to be investing in future generations of cyber professionals. This makes entry level roles highly competitive, therefore you will need to really stand out on your job application.
 
 ### Recruiters
 
@@ -126,7 +126,7 @@ You may opt to find a recruiter. I have not had much luck in this space, but wor
 
 ### Practice and Demonstrate
 
-There has been a lot of mention about practice! Without practice and demonstration, potential employers aren't going to know your skills.\
+There has been a lot of mention about practice - I want to emphasis it further. Without practice and demonstration, potential employers aren't going to know your skills.\
 \
 **_So practice, practice, practice._**
 
@@ -136,7 +136,7 @@ Many professionals I spoke with started out in a different area to cyber (e.g. h
 \
 There are also entry level programs, such as the CyberCX Academy which I mentioned previously, and graduate programs available to students completing a degree or higher.\
 \
-Some organisations will ask TAFE teachers to recommend their top students. Therefore, if you're doing TAFE courses, perform your best and maybe it will result in a recommendation.\
+Some organisations will ask TAFE teachers to recommend their top students. Therefore, if you're doing TAFE courses, perform your best, try to stand out, and it could result in a recommendation.\
 \
 And finally, the most obvious is the old help desk / IT support. I've been hesitant to do this and it's not because I'm not willing to do that type of work, but most people know that it is not the most rewarding and, to me, it really feels like a drastic step backward from my previous career. I will try other avenues first, but I'm not discounting it completely.
 
@@ -149,8 +149,8 @@ There are many career changers in cybersecurity. Many cybersecurity organisation
 ### Gender Diversity
 
 Women are still a minority, although that is slowly changing.\
-Many organisations have managed to find a balance in gender diversity, however I have heard stories of 'being the only woman in the room'.
-Many organisations are still working on gender diversity. The good news for women is that you are sought after! \
+Many organisations have managed to find a balance in gender diversity, however I have heard stories of 'being the only woman in the room'. \
+Many organisations are still working on gender diversity which means good news for women! They are highly sought after! \
 
 ### Neurodiversity
 

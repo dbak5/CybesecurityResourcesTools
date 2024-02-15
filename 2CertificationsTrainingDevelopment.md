@@ -92,6 +92,8 @@ You can also get discounts to TryHackMe \
 
 ## Other
 
+I've been warned about vendor certifications and training because you may get 'locked' in to using a specific type of product. If you decide to get vendor training, try to remember the principles, rather than memorising the product itself. This way you can apply your knowledge across multiple platforms. \
+\
 Splunk \
 RedHat \
 CISCO \
