@@ -39,7 +39,19 @@ https://github.com/Greenwolf/ntlm_theft
 A steganography program that is able to hide data in various kinds of image- and audio-files \
 https://steghide.sourceforge.net/
 
+## 403bypasser
+
+https://github.com/yunemse48/403bypasser
+
+## Pentest Tools
+
+https://app.pentest-tools.com/dashboard
+
 # Resources
+
+## User Agents
+
+https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/UserAgents.fuzz.txt
 
 ## Common Vulnerabilities and Exposures (CVEs)
 
