@@ -188,26 +188,6 @@ https://www.youtube.com/watch?v=-bpX8YvNg6Y&t=21s&ab_channel=DEFCONConference
 Unexpected Stories From a Hacker Inside the Government \
 https://www.youtube.com/watch?v=TSR-b9yuTbM&ab_channel=DEFCONConference
 
-# Just some other topics...
-
-Spyware as a service \
-Cyber mercenaries \
-Social engineering \
-https://www.offsec.com/metasploit-unleashed/persistent-backdoors/ \
-https://www.redhat.com/en/topics/devops/what-is-ci-cd \
-https://docs.metasploit.com/docs/using-metasploit/basics/how-to-use-msfvenom.html \
-https://portswigger.net/web-security/jwt \
-https://www.beyondtrust.com/resources/glossary/pass-the-hash-pth-attack
-https://thedfirreport.com/2023/12/18/lets-opendir-some-presents-an-analysis-of-a-persistent-actors-activity/
-https://www.cisa.gov/news-events/news/traffic-light-protocol-tlp-definitions-and-usage
-https://community.sophos.com/sophos-labs/b/blog/posts/powershell-command-history-forensics#Adversarial%20Tactics
-https://www.varonis.com/blog/what-is-c2 \
-https://www.imperva.com/learn/application-security/reverse-shell/ \
-https://cybersecuritynews-com.cdn.ampproject.org/c/s/cybersecuritynews.com/command-and-controlc2-server/?amp
-https://www.comptia.org/blog/what-is-active-directory?utm_source=linkedin&utm_medium=organic_social&utm_campaign=Social_Certs_Blog_SM_Editorial&utm_term=Blog&utm_compid=organic_social-linkedin-sm_editorial-Social_Certs_Blog_SM_Editorial-na-na-Blog-B2C#myself \
-https://www.youtube.com/watch?v=LGpgqRVG65g&list=PLlVtbbG169nGj4rfaMUQiKiBZNDlxoo0y
-https://www.youtube.com/watch?v=mH48U0PlLKI
-
 # Practice and Play!
 
 ## Project Ideas
@@ -257,3 +237,38 @@ https://www.holidayhackchallenge.com/past-challenges/
 
 This is aimed at absolute beginners claiming to teach the basics needed to be able to play other CTFs \
 https://overthewire.org/wargames/bandit/
+
+# Just some other topics ...
+
+Spyware as a service \
+Cyber mercenaries \
+Social engineering \
+https://www.offsec.com/metasploit-unleashed/persistent-backdoors/ \
+https://www.redhat.com/en/topics/devops/what-is-ci-cd \
+https://docs.metasploit.com/docs/using-metasploit/basics/how-to-use-msfvenom.html \
+https://portswigger.net/web-security/jwt \
+https://www.beyondtrust.com/resources/glossary/pass-the-hash-pth-attack
+https://thedfirreport.com/2023/12/18/lets-opendir-some-presents-an-analysis-of-a-persistent-actors-activity/
+https://www.cisa.gov/news-events/news/traffic-light-protocol-tlp-definitions-and-usage
+https://community.sophos.com/sophos-labs/b/blog/posts/powershell-command-history-forensics#Adversarial%20Tactics
+https://www.varonis.com/blog/what-is-c2 \
+https://www.imperva.com/learn/application-security/reverse-shell/ \
+https://cybersecuritynews-com.cdn.ampproject.org/c/s/cybersecuritynews.com/command-and-controlc2-server/?amp
+https://www.comptia.org/blog/what-is-active-directory?utm_source=linkedin&utm_medium=organic_social&utm_campaign=Social_Certs_Blog_SM_Editorial&utm_term=Blog&utm_compid=organic_social-linkedin-sm_editorial-Social_Certs_Blog_SM_Editorial-na-na-Blog-B2C#myself \
+https://www.youtube.com/watch?v=LGpgqRVG65g&list=PLlVtbbG169nGj4rfaMUQiKiBZNDlxoo0y \
+https://www.youtube.com/watch?v=mH48U0PlLKI \
+Cron is a Linux program that allows users to schedule the execution of a piece of software, often in the form of a shell script or a compiled executable. \
+T1047: Windows Management Instrumentation \
+Ports: Tagging and Untagging \
+In Kerberos, a Ticket Granting Ticket (TGT) serves as a user's proof of authentication and allows a user to request service tickets from the KDC, which can then be used to connect to services across the network. \
+https://www.digitalocean.com/community/tutorials/how-to-use-systemctl-to-manage-systemd-services-and-units \
+https://earthly.dev/blog/intro-to-linux-capabilities/#:~:text=CapPrm%20(Permitted%20capabilities)%20are%20the,process%20is%20allowed%20to%20have \
+https://0xn3va.gitbook.io/cheat-sheets/container/escaping/excessive-capabilities \
+https://learn.snyk.io/lesson/container-runs-in-privileged-mode/ \
+https://www.baeldung.com/linux/etc-mtab-file \
+https://tldp.org/LDP/Linux-Filesystem-Hierarchy/html/proc.html \
+https://man7.org/linux/man-pages/man1/capsh.1.html \
+https://winreg-kb.readthedocs.io/en/latest/ \
+https://artifacts-kb.readthedocs.io/en/latest/ \
+RFC ranges \
+CIDR notation and netmasks
