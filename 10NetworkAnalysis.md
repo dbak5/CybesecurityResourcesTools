@@ -39,6 +39,11 @@ https://docs.suricata.io/en/suricata-6.0.0/what-is-suricata.html
 Comprehensive real-time threat detection network \
 https://talosintelligence.com/
 
+## Nmap
+
+Powerful network scanning tool \
+https://nmap.org/book/nse-usage.html
+
 # Resources
 
 ## SSL Certificate Country Codes
