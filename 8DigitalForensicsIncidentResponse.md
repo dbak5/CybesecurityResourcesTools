@@ -20,6 +20,14 @@ https://blog.onfvp.com/post/volatility-cheatsheet/ \
 https://www.osforensics.com/tools/volatility-workbench.html \
 https://beguier.eu/nicolas/articles/security-tips-3-volatility-linux-profiles.html
 
+## FTK Imager
+
+Validating digital evidence
+
+## Eric Zimmerman Tools
+
+https://ericzimmerman.github.io/#!index.md
+
 ## Chainsaw
 
 https://github.com/WithSecureLabs/chainsaw
@@ -101,8 +109,49 @@ Look at notepad history \
 
 https://en.wikipedia.org/wiki/List_of_file_signatures
 
+## Registry Files
+
+From registry files contained in: \
+%SystemRoot%\System32\Config\
+
+Registry files:
+
+- Sam – HKEY_LOCAL_MACHINE\SAM
+- Security – HKEY_LOCAL_MACHINE\SECURITY
+- Software – HKEY_LOCAL_MACHINE\SOFTWARE
+- System – HKEY_LOCAL_MACHINE\SYSTEM
+
+### Timezones
+
+Timezones are an important factor in digital forensics - need to be mindful of timezones. \
+Further reading: \
+https://kb.digital-detective.net/display/BF/Identification+of+Time+Zone+Settings+on+Suspect+Computer \
+https://www.digital-detective.net/time-zone-identification/
+
+System Registry File -> Root -> ControlSet001 -> Control -> TimeZoneInformation \
+Easier to read using RegRipper!
+
+### Network data
+
+System Registry File -> Root -> Services -> Tcpip -> Parameters
+
+### Computer name
+
+System Registry File -> Root -> ControlSet001 -> Control -> ComputerName -> ComputerName
+
+### Default size for the Windows EventLogs
+
+System Registry File -> Root -> ControlSet001 -> Services -> EventLog -> Application -> MaxSize
+
+Value is in bytes, need to convert to MB or GB
+
+### Windows OS
+
+Software Registry File -> Root -> Microsoft -> Windows NT -> CurrentVersion -> ProductName
+
 ## Windows Event IDs
 
+https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/default.aspx?i=j \
 https://www.socinvestigation.com/windows-rdp-event-ids-cheatsheet/ \
 https://ss64.com/ps/syntax-eventids.html \
 https://alparslanakyildiz.medium.com/windows-event-ids-for-incident-response-cases-f3a069b8309f \
