@@ -81,6 +81,8 @@ There a many free or subsidised training programs out there. If you are just sta
 
 While it's not always compulsory to have tertiary studies, it can certainly help. It is important, however, to factor in a number of things when choosing between the two if you don't want to waste time and money.
 
+Refer here for my [list](https://github.com/dbak5/CybesecurityResources/blob/main/2CertificationsTrainingDevelopment.md) but bear in mind that this is not exhaustive!
+
 ### Certifications
 
 Certifications can be expensive so you need to consider if they are necessary.
@@ -91,19 +93,11 @@ Furthermore, the certifications you need may depend on the role you want, and th
 
 If you gain a role, then your employer may pay for you to get certifications. Paying for it yourself beforehand doesn't make economical sense.
 
-### Bachelor and Postgrad Studies
+### Degree and Postgraduate Studies
 
-These are very formal and tend to take a more generalised approach to learning and does not provide detailed technical, practical knowledge.
+For pros and cons, refer [here](https://github.com/dbak5/CybesecurityResources/blob/main/2CertificationsTrainingDevelopment.md).
 
-They can take a long time also.
-
-If you want to work in areas that are highly technical, Certificate IV or TAFE courses are probably going to be more helpful.
-
-They still look good on a job application because it demonstrates tenacity; you can finish what you started.
-
-Postgraduate studies are extremely expensive - but you get access to graduate recruitment programs upon completion.
-
-The main ones are:
+The main ones are (ranked from lowest to highest level):
 
 - Bachelor Degree (3-6 years average)
 - Graduate Certificate (1-2 years average). Courses can count toward a masters
@@ -112,15 +106,15 @@ The main ones are:
 
 ### TAFE Courses
 
-The most common course offered is the Certificate IV in Cybersecurity. There is also a Certificate III (lower level) or Diploma (higher level). Again, these can take 1-3 years, depending on a number of factors (part time, full time etc).
+For pros and cons, refer [here](https://github.com/dbak5/CybesecurityResources/blob/main/2CertificationsTrainingDevelopment.md).
 
-These courses offer more technical, practical and hands on learning. If you want to enter a more technical stream (i.e. red or blue team), then these courses may be for you.
+The main ones are (ranked from lowest to highest level):
 
-Sometimes these courses are offered for (nearly) free, if you are a state-local. You have to pay administration costs, but the course itself is subsidised.
+- Certificate III in Cybersecurity
+- Certificate IV in Cybersecurity
+- Diploma in Cybersecurity
 
-If you try to do a TAFE course from an interstate institution, you will probably have to pay the full fee which can be over $10,000.
-
-Fee-free courses are not available to international students.
+These can take 1-3 years, depending on a number of factors (part time, full time etc). The Certificate IV is the most popular and will more likely land you a job than a Certificate III. A Diploma is more advanced and will take longer to complete, but some units may count toward a degree.
 
 ### Keep up to date
 
