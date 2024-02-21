@@ -128,6 +128,10 @@ Firstly, due to most of Australian Federal Government Bodies residing in Canberr
 
 I found that there are minimal entry level roles available, and it is disappointing that there are not more programs like the CyberCX Academy. Purportedly, there is a shortage in cyber skills, yet few organisations appear to be investing in future generations of cyber professionals. This makes entry level roles highly competitive, therefore you will need to really stand out on your job application.
 
+### Australian Security Clearances
+
+You may need a clearance to work in some roles, and these are only open to passport holders. There are different levels of clearance, refer to the [website](https://www.agsva.gov.au/) for more info.
+
 ### Recruiters
 
 You may opt to find a recruiter. I have not had much luck in this space, but worth giving it a go. I have not done much research on it yet, but perhaps if I get more desperate, I'll add some suggestions here.
