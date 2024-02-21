@@ -61,13 +61,11 @@ Here's what I did:
 - used GitHub to publicly share projects
 - shared ideas and lessons learnt on LinkedIn
 - write ups and walkthroughs of hackathons / capture the flag events
-- set up my own workspace for carrying out practical tasks on a virtual machine (VM) using Kali Linux OS
+- set up my own workspace for carrying out practical tasks on a virtual machine (VM) using Kali Linux OS.
 
 **_A bit more on VMs..._**
 
-<em>You should understand and learn how to set up your own VM; this is how we are able to safely analyse potentially compromised environments. \
-\
-It is recommended to use an operating system (OS) on your VM that is not the same as the environment you want to examine. For example, use Linux OS to examine Windows OS. This will prevent infecting your VM with any Windows-related malware. For this reason, it is good to familiarise yourself with multiple operating environments. </em>
+<em>You should understand and learn how to set up your own VM; this is how we are able to safely analyse potentially compromised environments. You can find a guide [here](https://github.com/dbak5/CyberSecurityGuides/blob/main/VirtualMachineSetUp.md)</em>.
 
 ## Professional Bodies
 
