@@ -1,6 +1,9 @@
+This is a **_work in progress_**.
+
 This is a collection of resources and tools I've collected from my journey into cyber.
 
 Contents:
+
 1. [Advice for newbies](https://github.com/dbak5/CybesecurityResources/blob/main/BeginnerAdvice.md)
 2. [Advice on Certifications, Training and Professional Development](https://github.com/dbak5/CybesecurityResources/blob/main/CertificationsTrainingDevelopment.md)
 3. [Overview of Cybersecurity Professional Bodies](https://github.com/dbak5/CybesecurityResources/blob/main/ProfessionalBodies.md)

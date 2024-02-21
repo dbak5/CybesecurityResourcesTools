@@ -90,8 +90,10 @@ My favourites:
 - [The Hacker News](https://thehackernews.com/) - name self explanatory! Follow them on [LinkedIn](https://www.linkedin.com/company/thehackernews/) also.
 - [Darknet Diaries](https://darknetdiaries.com/) is a podcast with stories about hackers, breaches, cybercrime etc. Some super interesting stuff.
 
-Others:
+Others worth reading and following:
 
+- [Crowdstrike](https://www.crowdstrike.com/en-us/)
+- [SANS](https://www.sans.org/au_en/)
 - [Electronic Frontier Foundation](https://www.eff.org/issues/security).
 - [The CyberWire](https://thecyberwire.com/podcasts/daily-podcast)
 - [Information Security Forum](https://www.securityforum.org/solutions-and-insights/podcasts/)
