@@ -52,3 +52,7 @@ Does not include state or territory level legislation which may include specific
 - Lockheed Martin's Cyber Kill Chain
 - Open Systems Interconnection (OSI) Model
 - TCP/IP Model
+
+# Learn!
+
+- [TryHackMe Governance & Regulation](https://tryhackme.com/why-subscribe) - **_premium subscription needed_**

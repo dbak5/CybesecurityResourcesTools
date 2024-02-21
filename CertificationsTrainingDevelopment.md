@@ -139,6 +139,7 @@ I follow these people, or at least try to find talks that they've done. They pro
 - Spyware as a service
 - Cyber mercenaries
 - Social engineering
+- https://redis.com/blog/what-is-fuzzy-matching/
 - https://www.offsec.com/metasploit-unleashed/persistent-backdoors/
 - https://www.redhat.com/en/topics/devops/what-is-ci-cd
 - https://docs.metasploit.com/docs/using-metasploit/basics/how-to-use-msfvenom.html

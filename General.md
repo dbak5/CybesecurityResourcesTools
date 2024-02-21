@@ -10,6 +10,7 @@
 
 # Resources
 
+- [CVEs](https://www.cvedetails.com/)
 - [Open Worldwide Application Security Project (OWASP)](https://owasp.org/) - Produces freely available articles, methodologies, documentation, tools, and technologies in the fields of IoT, system software and web application security
 - [Infosec Black Friday Sales](https://github.com/0x90n/InfoSec-Black-Friday) - List of all Black Friday sales for cybersecurity resources and tools
 - [Awesome OSINT](https://github.com/jivoi/awesome-osint) - GitHub repo of OSINT resources

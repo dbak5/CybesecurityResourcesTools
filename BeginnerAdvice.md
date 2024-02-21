@@ -93,7 +93,7 @@ There a many free or subsidised training programs out there. If you are just sta
 
 While it's not always compulsory to have tertiary studies, it can certainly help. It is important, however, to factor in a number of things when choosing between the two if you don't want to waste time and money.
 
-Refer here for my [list](https://github.com/dbak5/CybesecurityResources/blob/main/2CertificationsTrainingDevelopment.md) but bear in mind that this is not exhaustive!
+Refer here for my [list](https://github.com/dbak5/CybesecurityResources/blob/main/CertificationsTrainingDevelopment.md) but bear in mind that this is not exhaustive!
 
 ### Certifications
 
@@ -107,7 +107,7 @@ If you gain a role, then your employer may pay for you to get certifications. Pa
 
 ### Degree and Postgraduate Studies
 
-For pros and cons, refer [here](https://github.com/dbak5/CybesecurityResources/blob/main/2CertificationsTrainingDevelopment.md).
+For pros and cons, refer [here](https://github.com/dbak5/CybesecurityResources/blob/main/CertificationsTrainingDevelopment.md).
 
 The main ones are (ranked from lowest to highest level):
 
@@ -118,7 +118,7 @@ The main ones are (ranked from lowest to highest level):
 
 ### TAFE Courses
 
-For pros and cons, refer [here](https://github.com/dbak5/CybesecurityResources/blob/main/2CertificationsTrainingDevelopment.md).
+For pros and cons, refer [here](https://github.com/dbak5/CybesecurityResources/blob/main/CertificationsTrainingDevelopment.md).
 
 The main ones are (ranked from lowest to highest level):
 
@@ -201,3 +201,9 @@ The main companies found during my research are:
 - Paraflare
 
 If you feel that you are just waving about in the breeze (applying for roles), one piece of advice I was given is to focus on a couple of companies you are interested in, network with people from within the organisation and ask questions, i.e. how you can stand out in an application.
+
+# Learn!
+
+- [TryHackMe Introduction to Cyber Security](https://tryhackme.com/paths)
+- [TryHackMe Pre Security](https://tryhackme.com/path/outline/presecurity?ref=blog.tryhackme.com)
+- [TryHackMe Complete Beginner](https://tryhackme.com/path/outline/beginner)
