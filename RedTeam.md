@@ -14,6 +14,7 @@ https://github.com/topics/penetration-testing
 - [403bypasser](https://github.com/yunemse48/403bypasser)
 - [Pentest Tools](https://app.pentest-tools.com/dashboard)
 - [Exploit Database](https://www.exploit-db.com/) - Contains exploits that can be downloaded and used straight out of the box.
+- [Predator-OS](https://predator-os.ir/) - Free and open-source Linux OS for penetration testing, ethical hacking, privacy and hardening
 
 # Resources
 
