@@ -10,6 +10,19 @@ The following are important considerations when you're starting out.
 
 **_Happy job hunting!_**
 
+## Why cybersecurity?
+
+This is the first question you should ask yourself, and potential employers will likely ask also. 
+
+
+***What motivates you? What do you like? What are your strengths?***
+
+For me, the answer is obvious. I'm tired of my data getting breached. It's been normalised and it feels like there is no recourse for us as individuals. So making a positive contribution where I can is important to me.  
+
+Additionally, I love puzzles and to analyse data; delving deep, looking for insights and solving problems. The feeling when I find something new and create solutions is amazing! The bonus is, I'm good at it, and it's super easy to enjoy something you're good at!
+
+Finally, there's always something new to learn. There are always new technologies, attacks and challenges that come them!
+
 ## Figure out what you want to do
 
 There are many different types of roles in cybersecurity, with so much to learn about each. At first, I had no idea what I wanted to do, and was learning everything I could. There are only so many hours in the day; you can't learn it all and also learn it well.
