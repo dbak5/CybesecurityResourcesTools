@@ -1,12 +1,5 @@
 ## <img width="441" alt="sss" src="placeholder" />
 
----
-
-title: "Red Team Tools and Resources"
-tags: ["reconnaissance", "active directory"]
-
----
-
 # Tools
 
 ## theHarvester
