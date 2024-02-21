@@ -11,3 +11,4 @@ Contents:
 8. [Digital Forensics and Incident Response Tools and Resources](https://github.com/dbak5/CybesecurityResources/blob/main/DigitalForensicsIncidentResponse.md)
 9. [Malware Analysis Tools and Resources](https://github.com/dbak5/CybesecurityResources/blob/main/MalwareAnalysis.md)
 
+I have also started a repo containing general guides for beginners which can be found [here](https://github.com/dbak5/BeginnerCybersecurityGuides).
