@@ -2,7 +2,7 @@
 
 <em>Disclaimer: general advice from anecdotes gathered from professionals across the industry. Please consider your own situation and make judgments as to whether the following advice applies to you.</em>
 
-This is mainly a collection of resources and tools I've collected from my journey into cyber. I wanted to put something together that is fairly general but comprehensive to provide a direction for newbies - because when I started, it was so hard to figure out where to begin. Thank goodness for mentors!
+I wanted to put something together that is fairly general but comprehensive to provide a direction for newbies - because when I started, it was so hard to figure out where to begin. Thank goodness for mentors!
 
 The contents of this specific page is information I wish I had known sooner, and therefore want to share with others so you don't make the same bad decisions I did - ha!
 
@@ -12,12 +12,11 @@ The following are important considerations when you're starting out.
 
 ## Why cybersecurity?
 
-This is the first question you should ask yourself, and potential employers will likely ask also. 
+This is the first question you should ask yourself, and potential employers will likely ask also.
 
+**_What motivates you? What do you like? What are your strengths?_**
 
-***What motivates you? What do you like? What are your strengths?***
-
-For me, the answer is obvious. I'm tired of my data getting breached. It's been normalised and it feels like there is no recourse for us as individuals. So making a positive contribution where I can is important to me.  
+For me, the answer is obvious. I'm tired of my data getting breached. It's been normalised and it feels like there is no recourse for us as individuals. So making a positive contribution where I can is important to me.
 
 Additionally, I love puzzles and to analyse data; delving deep, looking for insights and solving problems. The feeling when I find something new and create solutions is amazing! The bonus is, I'm good at it, and it's super easy to enjoy something you're good at!
 
