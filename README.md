@@ -1,6 +1,6 @@
 This is a **_work in progress_**.
 
-This is a collection of resources and tools I've collected from my journey into cyber.
+This is a collection of resources and tools I've collected from my journey into cyber - with a main focus on Australia.
 
 Contents:
 
