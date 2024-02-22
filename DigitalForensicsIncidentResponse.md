@@ -8,6 +8,7 @@
   - [A cheatsheet](https://blog.onfvp.com/post/volatility-cheatsheet/)
 - [FTK Imager](https://www.exterro.com/ftk-product-downloads/ftk-imager-version-4-7-1) - from website: assess electronic evidence, create forensic images, and generate hash reports
 - [Eric Zimmerman Tools](https://ericzimmerman.github.io/#!index.md) - an absolute legend who has created many useful tools
+- [MFTECmd](https://malware.news/t/introducing-mftecmd/20929)
 - [Chainsaw](https://github.com/WithSecureLabs/chainsaw) - quickly identify threats within Windows forensic artefacts such as Event Logs and the MFT file
 - [EVTX](https://github.com/omerbenamram/evtx) - a cross-platform parser for the Windows XML EventLog format
 - [EventFinder](https://github.com/BeanBagKing/EventFinder2) - Finds event logs between two time points. Useful for support/malware analysis
@@ -19,6 +20,9 @@
 - [SleuthKit](https://www.sleuthkit.org/sleuthkit/index.php) - a library and collection of command line tools that allow you to investigate disk images
 - [ssdeep](https://ssdeep-project.github.io/ssdeep/index.html) - a program for computing context triggered piecewise hashes (CTPH), AKA fuzzy hashes
 - [PhishTool](https://www.phishtool.com/) - free forensic phishing analysis
+- [Velociraptor](https://github.com/Velocidex/velociraptor/) - a tool for collecting host based state information using The Velociraptor Query Language (VQL) queries
+  - [Training Resource](https://docs.velociraptor.app/training/)
+  - [Documentation](https://docs.velociraptor.app/docs/)
 
 # Resources
 
@@ -31,6 +35,7 @@
 - Look at notepad history - `%localappdata%\Packages\Microsoft.WindowsNotepad_8wekyb3d8bbwe\LocalState\TabState`
 - [List of File Signatures](https://en.wikipedia.org/wiki/List_of_file_signatures)
 - [TimeZones](https://github.com/dbak5/BeginnerCybersecurityGuides/blob/main/TimeZones.md)
+- [13Cubed](https://training.13cubed.com/downloads) - cheat sheets, reference guides, study notes, and code that have been made available to the information security community
 - [Windows Registry Files](https://github.com/dbak5/BeginnerCybersecurityGuides/blob/main/WindowsRegistry.md)
 - Windows Event IDs
   - https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/default.aspx?i=j
