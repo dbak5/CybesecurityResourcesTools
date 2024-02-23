@@ -140,8 +140,9 @@ I follow these people, or at least try to find talks that they've done. They pro
 - [SANS Holiday Hack Challenge](https://www.sans.org/mlp/holiday-hack-challenge-2023/?utm_medium=Referral&utm_source=SANS&utm_content=Vanity%20URL%20-%20%20holidayhack&utm_campaign=Holiday%20Hack%20Challenge%202023) is an international yearly event which all cyber professionals will be aware of! This is probably a bit more advanced, but still fun to have a go. You can access [past challenges](https://www.holidayhackchallenge.com/past-challenges/) for practice and find write ups to learn from.
 - [Bandit wargame](https://overthewire.org/wargames/bandit/) is aimed at absolute beginners claiming to teach the basics needed to be able to play other CTFs.
 
-# Just a dump of some topics...
+# Just a dump of some topics and reading
 
+- https://engage.mitre.org/starter-kit/
 - Spyware as a service
 - Cyber mercenaries
 - Social engineering

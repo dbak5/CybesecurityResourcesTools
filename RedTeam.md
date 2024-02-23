@@ -18,8 +18,8 @@ https://github.com/topics/penetration-testing
 
 # Resources
 
+- [Metasploit](https://docs.metasploit.com/) - A framework for security vulnerabilities and penetration testing and IDS signature development
 - [User Agents](https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/UserAgents.fuzz.txt)
-- [Common Vulnerabilities and Exposures (CVEs)](https://cve.mitre.org/) - CVEs take the form: CVE-YEAR-IDNUMBER
 - [National Vulnerability Database (NVD)](https://nvd.nist.gov/vuln/search) - NVD keeps track of CVEs
 - Other Collections:
   - https://exploit-notes.hdks.org/

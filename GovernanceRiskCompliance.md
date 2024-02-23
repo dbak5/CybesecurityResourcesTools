@@ -27,19 +27,8 @@ Does not include state or territory level legislation which may include specific
 
 ## International
 
-- [MITRE ATT&CK](https://attack.mitre.org/) - An important framework for cybersecurity professionals, providing many resources on TTPs, CVEs, etc.
-  - https://cve.mitre.org/
-  - https://attack.mitre.org/
-  - https://attack.mitre.org/techniques/T1070/006/
-  - https://attack.mitre.org/techniques/T1547/001/
-  - https://engage.mitre.org/starter-kit/
-  - https://engage.mitre.org/matrix
-  - https://mitre-engenuity.org/
-  - https://mitre-engenuity.org/cybersecurity/center-for-threat-informed-defense/
-  - https://attack.mitre.org/resources/adversary-emulation-plans/
 - NIST
 - ISO
-- [Metasploit](https://docs.metasploit.com/) - A framework for security vulnerabilities and penetration testing and IDS signature development
 - SABSA
 - [Open-Source Intelligence (OSINT)](https://osintframework.com/)
 - Zero Trust
