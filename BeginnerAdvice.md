@@ -56,7 +56,9 @@ Here's what I did:
 
 All the cybersecurity professionals I've met so far have been keen to share their experiences and offer advice. Don't be afraid to reach out.
 
-## Learn to Communicate
+## Skills
+
+### Learn to Communicate
 
 I noticed that there seems to be a focus on writing and communicating to non-technical audiences. Therefore, it is probably valuable to learn and practice how to write and communicate professionally to others. Oftentimes, cybersecurity professionals will need to write briefings to all kinds of stakeholders, and therefore it is important that you can write a brief, tailored to diverse audiences.
 
@@ -82,6 +84,8 @@ Here's what I did:
 **_A bit more on VMs..._**
 
 <em>You should understand and learn how to set up your own VM; this is how we are able to safely analyse potentially compromised environments. You can find a guide [here](https://github.com/dbak5/CyberSecurityGuides/blob/main/VirtualMachineSetUp.md)</em>.
+
+###
 
 ## Professional Bodies
 

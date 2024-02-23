@@ -19,11 +19,17 @@ Typically, people who start their certification journey will continue their high
 
 ## Vendor-specific
 
-I've been warned about vendor certifications and training because you may get 'locked' in to using a specific type of product.
+I've been warned about vendor certifications and training because you may get 'locked' in to using a specific type of product. They can also be quite expensive.
 
 If you decide to get vendor training, try to remember the principles, rather than memorising the product itself. This way you can apply your knowledge across multiple platforms.
 
 - Microsoft
+  - [Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/exams/sc-900/)
+    [Exam SC-300: Microsoft Identity and Access Administrator](https://learn.microsoft.com/en-us/credentials/certifications/exams/sc-300/)
+    [Exam SC-200: Microsoft Security Operations Analyst](https://learn.microsoft.com/en-us/credentials/certifications/exams/sc-200/)
+    [Exam AZ-500: Microsoft Azure Security Technologies](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-500/)
+    [Exam SC-100: Microsoft Cybersecurity Architect](https://learn.microsoft.com/en-us/credentials/certifications/exams/sc-100/)
+    ["Mark's List" resources for Microsoft Training](https://www.linkedin.com/pulse/marks-list-mark-simos/)
 - Splunk
 - RedHat
 - CISCO
