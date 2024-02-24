@@ -83,7 +83,7 @@ Here's what I did:
 
 **_A bit more on VMs..._**
 
-<em>You should understand and learn how to set up your own VM; this is how we are able to safely analyse potentially compromised environments. You can find a guide [here](https://github.com/dbak5/CyberSecurityGuides/blob/main/VirtualMachineSetUp.md)</em>.
+<em>You should understand and learn how to set up your own VM; this is how we are able to safely analyse potentially compromised environments. You can find a guide [here](https://github.com/dbak5/BeginnerCybersecurityGuides/blob/main/DigitalForensics/VirtualMachineSetUp.md)</em>.
 
 ###
 

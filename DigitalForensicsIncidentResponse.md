@@ -36,13 +36,13 @@
   - Book: OS X Incident Response: Scripting and Analysis
 - [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response) - repo of tools and resources
 - Look at notepad history - `%localappdata%\Packages\Microsoft.WindowsNotepad_8wekyb3d8bbwe\LocalState\TabState`
-- [TimeZones](https://github.com/dbak5/BeginnerCybersecurityGuides/blob/main/TimeZones.md)
+- [TimeZones](https://github.com/dbak5/BeginnerCybersecurityGuides/blob/main/DigitalForensics/TimeZones.md)
 - [13Cubed](https://training.13cubed.com/downloads) - cheat sheets, reference guides, study notes, and code that have been made available to the information security community
-- [Windows Registry Files](https://github.com/dbak5/BeginnerCybersecurityGuides/blob/main/WindowsRegistry.md)
+- [Windows Registry Files](https://github.com/dbak5/BeginnerCybersecurityGuides/blob/main/DigitalForensics/WindowsRegistry.md)
 - [Windows Event IDs](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/default.aspx?i=j)
 - [Fancy Forensics](https://www.fancy4n6.com/docs/shanna-daly/as-seen-on/)
 
 # Learn!
 
 - [TryHackMe Digital Forensics Room](https://tryhackme.com/module/digital-forensics-and-incident-response)
-- [Beginner's guide to parsing Windows Event Logs]()
+- [Beginner's guide to parsing Windows Event Logs](https://github.com/dbak5/BeginnerCybersecurityGuides/blob/main/DigitalForensics/WindowsEventLogs.md)
