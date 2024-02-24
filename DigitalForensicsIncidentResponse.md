@@ -39,14 +39,10 @@
 - [TimeZones](https://github.com/dbak5/BeginnerCybersecurityGuides/blob/main/TimeZones.md)
 - [13Cubed](https://training.13cubed.com/downloads) - cheat sheets, reference guides, study notes, and code that have been made available to the information security community
 - [Windows Registry Files](https://github.com/dbak5/BeginnerCybersecurityGuides/blob/main/WindowsRegistry.md)
-- Windows Event IDs
-  - https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/default.aspx?i=j
-  - https://www.socinvestigation.com/windows-rdp-event-ids-cheatsheet/
-  - https://ss64.com/ps/syntax-eventids.html
-  - https://alparslanakyildiz.medium.com/windows-event-ids-for-incident-response-cases-f3a069b8309f
-  - https://medium.com/@rajeevranjancom/windows-event-log-analysis-incident-response-guide-739af79b518b
+- [Windows Event IDs](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/default.aspx?i=j)
 - [Fancy Forensics](https://www.fancy4n6.com/docs/shanna-daly/as-seen-on/)
 
 # Learn!
 
 - [TryHackMe Digital Forensics Room](https://tryhackme.com/module/digital-forensics-and-incident-response)
+- [Beginner's guide to parsing Windows Event Logs]()

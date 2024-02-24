@@ -4,6 +4,8 @@ Typically, people who start their certification journey will continue their high
 
 [Here's](https://pauljerimy.com/security-certification-roadmap/) a roadmap of certifications and their relevant areas.
 
+Some more common certifications:
+
 - [CompTIA](https://www.comptia.org/) **_[beginner friendly]_**
   - [Professor Messor](https://www.professormesser.com/) is an excellent resource for CompTIA studies; free and paid options available.
   - Many opt to go for A+, Network+ and Security+.
@@ -25,11 +27,11 @@ If you decide to get vendor training, try to remember the principles, rather tha
 
 - Microsoft
   - [Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/exams/sc-900/)
-    [Exam SC-300: Microsoft Identity and Access Administrator](https://learn.microsoft.com/en-us/credentials/certifications/exams/sc-300/)
-    [Exam SC-200: Microsoft Security Operations Analyst](https://learn.microsoft.com/en-us/credentials/certifications/exams/sc-200/)
-    [Exam AZ-500: Microsoft Azure Security Technologies](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-500/)
-    [Exam SC-100: Microsoft Cybersecurity Architect](https://learn.microsoft.com/en-us/credentials/certifications/exams/sc-100/)
-    ["Mark's List" resources for Microsoft Training](https://www.linkedin.com/pulse/marks-list-mark-simos/)
+  - [Exam SC-300: Microsoft Identity and Access Administrator](https://learn.microsoft.com/en-us/credentials/certifications/exams/sc-300/)
+  - [Exam SC-200: Microsoft Security Operations Analyst](https://learn.microsoft.com/en-us/credentials/certifications/exams/sc-200/)
+  - [Exam AZ-500: Microsoft Azure Security Technologies](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-500/)
+  - [Exam SC-100: Microsoft Cybersecurity Architect](https://learn.microsoft.com/en-us/credentials/certifications/exams/sc-100/)
+  - ["Mark's List" resources for Microsoft Training](https://www.linkedin.com/pulse/marks-list-mark-simos/)
 - Splunk
 - RedHat
 - CISCO
@@ -92,7 +94,7 @@ My favourites:
 
 - Defcon is hacker-focused with lots of interesting talks - freely available on [YouTube](https://www.youtube.com/user/defconconference).
 - The [NDC Conference](https://ndcconferences.com/) is not cybersecurity focused, but their talks can be interesting! They do have conferences in Australia occasionally, but tickets are extremely pricey. They post many of their talks and seminars on [YouTube](https://www.youtube.com/@NDC) - check them out!
-- [BlackHat](https://www.blackhat.com/) is a nother hacker resource with talks available on [YouTube](https://www.youtube.com/user/BlackHatOfficialYT).
+- [BlackHat](https://www.blackhat.com/) is another hacker resource with talks available on [YouTube](https://www.youtube.com/user/BlackHatOfficialYT).
 - [The Hacker News](https://thehackernews.com/) - name self explanatory! Follow them on [LinkedIn](https://www.linkedin.com/company/thehackernews/) also.
 - [Darknet Diaries](https://darknetdiaries.com/) is a podcast with stories about hackers, breaches, cybercrime etc. Some super interesting stuff.
 

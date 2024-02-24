@@ -12,7 +12,7 @@ This is, by no means, an exhaustive list. You should research your own and join 
 
 However, I would recommend that you join local, Australian professional bodies, so that you can gain access to a network of local professionals and opportunities.
 
-These are only the ones I've joined.
+These are the ones I've joined:
 
 - [Australian Computer Society (ACS)](https://www.acs.org.au) is not focused on cybersecurity, but can provide some good learning resources.
 - [Australian Information Security Association (AISA)](https://www.aisa.org.au) has provided me with some good networking opportunities and have local chapters.
