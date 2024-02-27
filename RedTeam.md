@@ -1,7 +1,6 @@
 ## <img width="441" alt="sss" src="placeholder" />
 
-You can search GitHub topics to find further resources on pentesting:
-https://github.com/topics/penetration-testing
+You can search [GitHub topics](https://github.com/topics/penetration-testing) to find further resources on pentesting:
 
 # Tools
 
