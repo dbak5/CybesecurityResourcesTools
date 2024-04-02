@@ -26,6 +26,7 @@
 
 # Resources
 
+- [Format of a SID](https://learn.microsoft.com/en-us/windows/win32/secauthz/sid-components)
 - [List of File Signatures](https://en.wikipedia.org/wiki/List_of_file_signatures)
 - SIEMs
 - Splunk
@@ -41,6 +42,9 @@
 - [Windows Registry Files](https://github.com/dbak5/BeginnerCybersecurityGuides/blob/main/DigitalForensics/WindowsRegistry.md)
 - [Windows Event IDs](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/default.aspx?i=j)
 - [Fancy Forensics](https://www.fancy4n6.com/docs/shanna-daly/as-seen-on/)
+- [File signatures](https://www.garykessler.net/library/file_sigs.html)
+- [File type scanner](https://mark0.net/soft-trid-e.htmlunko)
+- [File type scanner](https://github.com/horsicq/Detect-It-Easy)
 
 # Learn!
 
