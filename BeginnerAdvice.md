@@ -207,7 +207,7 @@ The main companies found during my research are:
 If you feel that you are just waving about in the breeze (applying for roles), one piece of advice I was given is to focus on a couple of companies you are interested in, network with people from within the organisation and ask questions, i.e. how you can stand out in an application.
 
 # Learn!
-
+- [Cybersecurity for Beginners](https://github.com/microsoft/Security-101)
 - [TryHackMe Introduction to Cyber Security](https://tryhackme.com/paths)
 - [TryHackMe Pre Security](https://tryhackme.com/path/outline/presecurity?ref=blog.tryhackme.com)
 - [TryHackMe Complete Beginner](https://tryhackme.com/path/outline/beginner)
