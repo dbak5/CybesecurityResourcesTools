@@ -32,13 +32,15 @@
 - https://whatismyipaddress.com/
 - https://www.whatsmyua.info/
 - https://www.useragents.me/#google_vignette
-- https://coveryourtracks.eff.org/
-- https://amiunique.org/
+- [Look at your Fingerprint](https://coveryourtracks.eff.org/)
+- [Look at your Fingerprint](https://amiunique.org/)
 - PrivacyBadger - attribution
 - [Wayback Machine](https://archive.org/) - attribution
 
 ## OSINT
 
+- [Private Browsing](https://privacytests.org/)
+- https://browserleaks.com/
 - [Awesome OSINT](https://github.com/jivoi/awesome-osint) - GitHub repo of OSINT resources
 - https://datareportal.com/
 - [SANS List of OSINT Resources Must Haves](https://www.sans.org/blog-must-have-free-resources-for-open-source-intelligence-osint-/)
