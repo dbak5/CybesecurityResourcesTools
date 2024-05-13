@@ -21,8 +21,19 @@
 - [Australian Government Identifying and Mitigating Living Off the Land Techniques](https://www.cyber.gov.au/about-us/view-all-content/alerts-and-advisories/identifying-and-mitigating-living-off-the-land-techniques)
 - [Open Worldwide Application Security Project (OWASP)](https://owasp.org/) - Produces freely available articles, methodologies, documentation, tools, and technologies in the fields of IoT, system software and web application security
 - [Infosec Black Friday Sales](https://github.com/0x90n/InfoSec-Black-Friday) - List of all Black Friday sales for cybersecurity resources and tools
-- [Awesome OSINT](https://github.com/jivoi/awesome-osint) - GitHub repo of OSINT resources
 - [MITRE Top Attack Techniques](https://top-attack-techniques.mitre-engenuity.org/)
 - [SANS Cheatsheets](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/)
-- [SANS List of OSINT Resources Must Haves](https://www.sans.org/blog/-must-have-free-resources-for-open-source-intelligence-osint-/)
 - [MAC Address vendors](https://macvendors.com/)
+
+## OpSec
+
+- https://whatsmyip.com/
+- https://browserleaks.com/ip
+- https://whatismyipaddress.com/
+- https://www.whatsmyua.info/
+
+## OSINT
+
+- [Awesome OSINT](https://github.com/jivoi/awesome-osint) - GitHub repo of OSINT resources
+- https://datareportal.com/
+- [SANS List of OSINT Resources Must Haves](https://www.sans.org/blog-must-have-free-resources-for-open-source-intelligence-osint-/)

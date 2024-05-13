@@ -17,6 +17,7 @@ You can search [GitHub topics](https://github.com/topics/penetration-testing) to
 
 # Resources
 
+- [Exploit Discussion](http://neworder.box.sk) - lists of exploits, discussions about the exploits, information about how to identify vulnerable systems and the code to launch an attack
 - [Metasploit](https://docs.metasploit.com/) - A framework for security vulnerabilities and penetration testing and IDS signature development
 - [User Agents](https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/UserAgents.fuzz.txt)
 - [National Vulnerability Database (NVD)](https://nvd.nist.gov/vuln/search) - NVD keeps track of CVEs
