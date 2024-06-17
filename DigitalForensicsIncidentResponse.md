@@ -39,6 +39,7 @@
 - [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response) - repo of tools and resources
 - Look at notepad history - `%localappdata%\Packages\Microsoft.WindowsNotepad_8wekyb3d8bbwe\LocalState\TabState`
 - [TimeZones](https://github.com/dbak5/BeginnerCybersecurityGuides/blob/main/DigitalForensics/TimeZones.md)
+- [Timestamps](https://www.youtube.com/watch?v=VL_HDvTLjG0)
 - [13Cubed](https://training.13cubed.com/downloads) - cheat sheets, reference guides, study notes, and code that have been made available to the information security community
 - [Windows Registry Files](https://github.com/dbak5/BeginnerCybersecurityGuides/blob/main/DigitalForensics/WindowsRegistry.md)
 - [Windows Event IDs](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/default.aspx?i=j)
