@@ -52,4 +52,4 @@
 - https://www.osintme.com/index.php/2022/07/14/list-of-60-hacker-cracker-carder-cyber-criminal-forums-for-investigators/
 - https://tineye.com
 - yandex.com
--
+- [Browsing Privacy](https://awesome-privacy.xyz/security-tools/browser-extensions)
