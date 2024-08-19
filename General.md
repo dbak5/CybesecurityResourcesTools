@@ -37,19 +37,4 @@
 - PrivacyBadger - attribution
 - [Wayback Machine](https://archive.org/) - attribution
 
-## OSINT
 
-- [Private Browsing](https://privacytests.org/)
-- https://browserleaks.com/
-- [Awesome OSINT](https://github.com/jivoi/awesome-osint) - GitHub repo of OSINT resources
-- https://datareportal.com/
-- [SANS List of OSINT Resources Must Haves](https://www.sans.org/blog-must-have-free-resources-for-open-source-intelligence-osint-/)
-- https://grabify.link/
-- https://viewdns.info/
-- https://www.worldstandards.eu/other/tlds/
-- https://www.whoxy.com/
-- https://viewdns.info
-- https://www.osintme.com/index.php/2022/07/14/list-of-60-hacker-cracker-carder-cyber-criminal-forums-for-investigators/
-- https://tineye.com
-- yandex.com
-- [Browsing Privacy](https://awesome-privacy.xyz/security-tools/browser-extensions)
