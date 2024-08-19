@@ -34,21 +34,21 @@
 ## Tips
 -	Use timestamp application
 -	Include content info
-  - Topic event
-  -	Who involved
-  -	When occurred
-  -	Location
-  -	Why
-  -	How
+    - Topic event
+    -	Who involved
+    -	When occurred
+    -	Location
+    -	Why
+    -	How
 -	Blur / redact info for evidence
-  -	Other tabs
-  -	Browser extensions
-  -	Account names
-  -	Profile images
-  -	Sock puppet – investigators online profile or persona
-  -	Other programs
-  -	Names of other people liked/commented
-  - Mutual friends and followers
-  -	Account details
+    -	Other tabs
+    -	Browser extensions
+    -	Account names
+    -	Profile images
+    -	Sock puppet – investigators online profile or persona
+    -	Other programs
+    -	Names of other people liked/commented
+    - Mutual friends and followers
+    -	Account details
 
 
