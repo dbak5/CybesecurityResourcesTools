@@ -5,6 +5,7 @@
 - https://blog.hootsuite.com/
 - https://www.osintme.com/index.php/2022/07/14/list-of-60-hacker-cracker-carder-cyber-criminal-forums-for-investigators/
 - yandex.com
+- https://personlookup.com.au/
 
 ## Digital Footprint
 - [Private Browsing](https://privacytests.org/)
@@ -26,7 +27,8 @@
 - Phonebook.cz
 
 ## Username correlation
-- 
+- https://namechk.com/
+- https://namecheckup.com/
 
 ## Dorking
 - https://www.worldstandards.eu/other/tlds/
