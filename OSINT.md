@@ -35,6 +35,7 @@
 
 ## Tips
 -	Use timestamp application
+-	Car registration check - state/territory
 -	Include content info
     - Topic event
     -	Who involved
