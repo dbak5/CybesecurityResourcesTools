@@ -23,7 +23,9 @@
 - [Velociraptor](https://github.com/Velocidex/velociraptor/) - a tool for collecting host based state information using The Velociraptor Query Language (VQL) queries
   - [Training Resource](https://docs.velociraptor.app/training/)
   - [Documentation](https://docs.velociraptor.app/docs/)
-  - Email analyser tool - Azure
+- Email analyser tool - Azure
+- Images - https://29a.ch/photo-forensics/#forensic-magnifier
+- 
 
 # Resources
 
