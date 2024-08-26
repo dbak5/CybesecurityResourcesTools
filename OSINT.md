@@ -5,6 +5,8 @@
 - https://blog.hootsuite.com/
 - https://www.osintme.com/index.php/2022/07/14/list-of-60-hacker-cracker-carder-cyber-criminal-forums-for-investigators/
 - yandex.com
+
+## Resident History
 - https://personlookup.com.au/
 - https://www.whitepages.com.au/
 
@@ -15,6 +17,10 @@
 
 ## Image
 - https://tineye.com
+
+## Metdata
+- https://exifinfo.org/
+- 
 
 ## Domain
 - https://grabify.link/
