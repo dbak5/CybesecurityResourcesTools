@@ -28,7 +28,10 @@
 
 ## Metadata
 - https://exifinfo.org/ - timezone for documents and photos
-- 
+
+## Assets
+- Vehicle registration
+- property
 
 ## Domain
 - https://grabify.link/
