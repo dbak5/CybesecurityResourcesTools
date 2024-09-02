@@ -9,6 +9,7 @@
 - foursquare.com/explore
     - https://foursquare.com/user/<userid>/photos
 - foursquare.com/search
+- https://codebeautify.org/
 
 ## People Search
 - https://personlookup.com.au/
