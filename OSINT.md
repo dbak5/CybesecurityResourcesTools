@@ -11,6 +11,8 @@
     - site:foursquare.com/user/* "robert"
 - foursquare.com/search
 - https://codebeautify.org/
+- daily court lists - australia
+- https://soar.earth/
 - https://www.courtdata.com.au/
 
 ## People Search
