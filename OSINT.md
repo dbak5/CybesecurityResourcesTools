@@ -7,6 +7,7 @@
 - yandex.com
 - Tripadvisor.com
 - foursquare.com/explore
+    - https://foursquare.com/user/<userid>/photos
 - foursquare.com/search
 
 ## People Search
