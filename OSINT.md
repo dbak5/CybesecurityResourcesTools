@@ -13,6 +13,7 @@
 - https://codebeautify.org/
 - daily court lists - australia
 - https://soar.earth/
+- windy.com
 - https://apps.sentinel-hub.com/eo-browser/
 - https://www.courtdata.com.au/
 
