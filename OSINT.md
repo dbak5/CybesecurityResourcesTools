@@ -8,6 +8,7 @@
 - Tripadvisor.com
 - foursquare.com/explore
     - https://foursquare.com/user/<userid>/photos
+    - site:foursquare.com/user/* "robert"
 - foursquare.com/search
 - https://codebeautify.org/
 
