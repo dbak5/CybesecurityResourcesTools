@@ -4,25 +4,21 @@
 - [SANS List of OSINT Resources Must Haves](https://www.sans.org/blog-must-have-free-resources-for-open-source-intelligence-osint-/)
 - https://blog.hootsuite.com/
 - https://www.osintme.com/index.php/2022/07/14/list-of-60-hacker-cracker-carder-cyber-criminal-forums-for-investigators/
-- yandex.com
-- Tripadvisor.com
-- foursquare.com/explore
-    - https://foursquare.com/user/<userid>/photos
-    - site:foursquare.com/user/* "robert"
-- foursquare.com/search
 - https://codebeautify.org/
-- daily court lists - australia
 - https://soar.earth/
 - windy.com
 - https://apps.sentinel-hub.com/eo-browser/
-- https://www.courtdata.com.au/
+
+## Search engine
+- yandex.com
 
 ## People Search
 - https://personlookup.com.au/
 - https://www.whitepages.com.au/
 - https://webmii.com/
 - https://www.reverseaustralia.com/
-
+- daily court lists - australia
+- 
 ## Digital Footprint
 - [Private Browsing](https://privacytests.org/)
 - https://browserleaks.com/
@@ -56,6 +52,21 @@
 
 ## Time
 - https://www.timeanddate.com/time/map/
+
+## Social Media
+- foursquare.com/explore
+    - https://foursquare.com/user/<userid>/photos
+    - site:foursquare.com/user/* "robert"
+- foursquare.com/search
+- Tripadvisor.com
+- Facebook
+    - use external search in google - dorking
+    - bypass privacy restrictions
+    - userID or container_id in source code of facebook page
+    - site:facebook.com "query"
+    - site:m.facebook.com "query" - mobile site
+    - Use variety search engines
+    - ![image](https://github.com/user-attachments/assets/cf2a96d4-1116-4166-96db-07f684f21814)
 
 ## Dorking
 - https://www.worldstandards.eu/other/tlds/
