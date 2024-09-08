@@ -78,6 +78,7 @@
 - site:facebook.com "query"
 - site:m.facebook.com "query" - mobile site
 - Use variety search engines
+- https://www.facebook.com/search/places?q=<QUERY>&filters=<BASE64>
 - https://www.facebook.com/profile/PROFILE ID/search/?q=search (searching posts related to tags)
 - https://www.facebook.com/places/*
 - ![image](https://github.com/user-attachments/assets/cf2a96d4-1116-4166-96db-07f684f21814)
