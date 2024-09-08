@@ -59,14 +59,16 @@
     - site:foursquare.com/user/* "robert"
 - foursquare.com/search
 - Tripadvisor.com
-- Facebook
-    - use external search in google - dorking
-    - bypass privacy restrictions
-    - userID or container_id in source code of facebook page
-    - site:facebook.com "query"
-    - site:m.facebook.com "query" - mobile site
-    - Use variety search engines
-    - ![image](https://github.com/user-attachments/assets/cf2a96d4-1116-4166-96db-07f684f21814)
+
+### Facebook
+- use external search in google - dorking
+- bypass privacy restrictions
+- userID or container_id in source code of facebook page
+- site:facebook.com "query"
+- site:m.facebook.com "query" - mobile site
+- Use variety search engines
+- https://www.facebook.com/profile/PROFILE ID/search/?q=search (searching posts related to tags)
+- ![image](https://github.com/user-attachments/assets/cf2a96d4-1116-4166-96db-07f684f21814)
 
 ## Dorking
 - https://www.worldstandards.eu/other/tlds/
