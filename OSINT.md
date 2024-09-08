@@ -84,6 +84,14 @@
 - https://www.sowsearch.info/
 - ![image](https://github.com/user-attachments/assets/cf2a96d4-1116-4166-96db-07f684f21814)
 
+## X Twitter
+- site:twitter.com "keyword"
+- site:twitter.com "@username"
+- ![image](https://github.com/user-attachments/assets/afa36061-0ccf-45da-9f57-84b12e99f9ab)
+
+## Instagram
+- site:instagram.com/p "QUERY"
+
 ## Tips
 -	Use timestamp application - https://www.timeanddate.com/time/map/
 -	Car registration check - state/territory
