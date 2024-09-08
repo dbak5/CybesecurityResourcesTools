@@ -9,9 +9,12 @@
 - windy.com
 - https://apps.sentinel-hub.com/eo-browser/
 - https://dfir.blog/unfurl/
+- Wayback Machine
 
 ## Search engine
 - yandex.com
+- https://www.worldstandards.eu/other/tlds/
+- ![Picture1](https://github.com/user-attachments/assets/85fc4704-b7b3-4983-814e-f7ad1442b6d9)
 
 ## People Search
 - https://personlookup.com.au/
@@ -51,8 +54,15 @@
 - https://namechk.com/
 - https://namecheckup.com/
 
-## Time
-- https://www.timeanddate.com/time/map/
+## Attribution 
+- https://whatsmyip.com/
+- https://browserleaks.com/ip
+- https://whatismyipaddress.com/
+- https://www.whatsmyua.info/
+- https://www.useragents.me/#google_vignette
+- Look at your Fingerprint
+- Look at your Fingerprint
+- PrivacyBadger - attribution
 
 ## Social Media
 - foursquare.com/explore
@@ -71,13 +81,8 @@
 - https://www.facebook.com/profile/PROFILE ID/search/?q=search (searching posts related to tags)
 - ![image](https://github.com/user-attachments/assets/cf2a96d4-1116-4166-96db-07f684f21814)
 
-## Dorking
-- https://www.worldstandards.eu/other/tlds/
-
-![Picture1](https://github.com/user-attachments/assets/85fc4704-b7b3-4983-814e-f7ad1442b6d9)
-
 ## Tips
--	Use timestamp application
+-	Use timestamp application - https://www.timeanddate.com/time/map/
 -	Car registration check - state/territory
 -	Include content info
     - Topic event
