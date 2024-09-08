@@ -60,8 +60,8 @@
 - https://whatismyipaddress.com/
 - https://www.whatsmyua.info/
 - https://www.useragents.me/#google_vignette
-- Look at your Fingerprint
-- Look at your Fingerprint
+- [Look at your Fingerprint](https://coveryourtracks.eff.org/)
+- [Look at your Fingerprint](https://amiunique.org/)
 - PrivacyBadger - attribution
 
 ## Social Media
