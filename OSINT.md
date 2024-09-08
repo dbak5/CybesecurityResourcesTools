@@ -94,7 +94,8 @@
 
 ### TikTik
 - createTime - when uploaded, not created
-- 
+- <img width="295" alt="image" src="https://github.com/user-attachments/assets/ac85ccfe-976a-43dd-8dee-380136388322">
+
 
 ## Tips
 -	Use timestamp application - https://www.timeanddate.com/time/map/
