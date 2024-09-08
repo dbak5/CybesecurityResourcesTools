@@ -91,6 +91,10 @@
 
 ## Instagram
 - site:instagram.com/p "QUERY"
+- https://www.picuki.com/
+- https://imginn.com/
+- ![image](https://github.com/user-attachments/assets/ccf1fad8-249c-4d07-a486-aa153e72a780)
+
 
 ## Tips
 -	Use timestamp application - https://www.timeanddate.com/time/map/
