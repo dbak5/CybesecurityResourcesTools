@@ -10,49 +10,18 @@
 - https://apps.sentinel-hub.com/eo-browser/
 - https://dfir.blog/unfurl/
 - Wayback Machine
+- https://tineye.com
+- https://exifinfo.org/ - timezone for documents and photos
 
 ## Search engine
 - yandex.com
 - https://www.worldstandards.eu/other/tlds/
 - ![Picture1](https://github.com/user-attachments/assets/85fc4704-b7b3-4983-814e-f7ad1442b6d9)
 
-## People Search
-- https://personlookup.com.au/
-- https://www.whitepages.com.au/
-- https://webmii.com/
-- https://www.reverseaustralia.com/
-- daily court lists - australia
-- 
 ## Digital Footprint
 - [Private Browsing](https://privacytests.org/)
 - https://browserleaks.com/
 - [Browsing Privacy](https://awesome-privacy.xyz/security-tools/browser-extensions)
-
-## Image
-- https://tineye.com
-
-## Metadata
-- https://exifinfo.org/ - timezone for documents and photos
-
-## Assets
-- Vehicle registration
-- property
-
-## Domain
-- https://grabify.link/
-- https://viewdns.info/
-- https://www.whoxy.com/
-
-## Contact Validation
-- EmailRep.io
-- Google Account Finder
-- Have I Been Pwned
-- Phonebook.cz
-- https://epieos.com/
-
-## Username correlation
-- https://namechk.com/
-- https://namecheckup.com/
 
 ## Attribution 
 - https://whatsmyip.com/
@@ -63,6 +32,33 @@
 - [Look at your Fingerprint](https://coveryourtracks.eff.org/)
 - [Look at your Fingerprint](https://amiunique.org/)
 - PrivacyBadger - attribution
+
+## People / Entity Search
+- https://personlookup.com.au/
+- https://www.whitepages.com.au/
+- https://webmii.com/
+- https://www.reverseaustralia.com/
+- daily court lists - australia
+
+### Contact Validation
+- EmailRep.io
+- Google Account Finder
+- Have I Been Pwned
+- Phonebook.cz
+- https://epieos.com/
+
+### Username correlation
+- https://namechk.com/
+- https://namecheckup.com/
+
+### Domain
+- https://grabify.link/
+- https://viewdns.info/
+- https://www.whoxy.com/
+
+### Assets
+- Vehicle registration
+- property
 
 ## Social Media
 - foursquare.com/explore
@@ -94,7 +90,6 @@
 - https://www.picuki.com/
 - https://imginn.com/
 - ![image](https://github.com/user-attachments/assets/ccf1fad8-249c-4d07-a486-aa153e72a780)
-
 
 ## Tips
 -	Use timestamp application - https://www.timeanddate.com/time/map/
