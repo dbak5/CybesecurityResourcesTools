@@ -7,6 +7,7 @@
 - https://codebeautify.org/
 - [CyberCX Purple Teaming Tool](https://cybercx.com.au/blog/cybercx-purple-teaming-tool/) - From their website: Open-source tool to create assessments, capture, and organise various test cases and actions aligned to the Mitre ATT&CK framework
 - [JWT Debugger](https://jwt.io/) - Decode, verify and generate JSON web tokens
+- https://dfir.blog/unfurl/
 
 # Resources
 
