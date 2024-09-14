@@ -8,6 +8,7 @@
 - https://soar.earth/
 - windy.com
 - https://apps.sentinel-hub.com/eo-browser/
+- midnightslayer.com
 - https://dfir.blog/unfurl/
 - Wayback Machine
 - https://www.epochconverter.com/
