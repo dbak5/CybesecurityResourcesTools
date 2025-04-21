@@ -26,6 +26,7 @@
 - [MITRE Top Attack Techniques](https://top-attack-techniques.mitre-engenuity.org/)
 - [SANS Cheatsheets](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/)
 - [MAC Address vendors](https://macvendors.com/)
+- [Cyber conferences](https://infosec-conferences.com/)
 
 ## OpSec
 
